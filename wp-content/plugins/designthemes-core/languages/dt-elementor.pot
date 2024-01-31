@@ -1,0 +1,2607 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Elementor Plugin\n"
+"POT-Creation-Date: 2020-01-23 12:21+0530\n"
+"PO-Revision-Date: 2019-03-07 12:44+0530\n"
+"Last-Translator: Admin <admin@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../common-functions.php:87
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:78
+msgid "Share"
+msgstr ""
+
+#: ../common-functions.php:124
+msgid "Already"
+msgstr ""
+
+#: ../common-functions.php:153
+msgid "Security check"
+msgstr ""
+
+#: ../designthemes-core.php:145
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: ../designthemes-core.php:146 ../designthemes-core.php:166
+#: ../designthemes-core.php:187
+msgid "DesignThemes Core"
+msgstr ""
+
+#: ../designthemes-core.php:147 ../designthemes-core.php:167
+msgid "Elementor"
+msgstr ""
+
+#: ../designthemes-core.php:165 ../designthemes-core.php:186
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ../designthemes-core.php:188
+msgid "PHP"
+msgstr ""
+
+#: ../designthemes-core.php:227
+msgid "DesignThemes"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:15
+#: ../post-types/footer-post-type.php:17
+msgid "Footers"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:16
+msgid "Footer"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:18
+msgid "Add Footer"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:19
+msgid "Add New Footer"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:20
+#: ../post-types/footer-post-type.php:21
+msgid "Edit Footer"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:22
+msgid "New Footer"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:23
+#: ../post-types/footer-post-type.php:24
+msgid "View Footer"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:25
+msgid "Search Footers"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:26
+msgid "No Footers found"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:27
+msgid "No Footers found in Trash"
+msgstr ""
+
+#: ../post-types/header-post-type.php:15
+#: ../post-types/header-post-type.php:17
+msgid "Headers"
+msgstr ""
+
+#: ../post-types/header-post-type.php:16
+msgid "Header"
+msgstr ""
+
+#: ../post-types/header-post-type.php:18
+msgid "Add Header"
+msgstr ""
+
+#: ../post-types/header-post-type.php:19
+msgid "Add New Header"
+msgstr ""
+
+#: ../post-types/header-post-type.php:20
+#: ../post-types/header-post-type.php:21
+msgid "Edit Header"
+msgstr ""
+
+#: ../post-types/header-post-type.php:22
+msgid "New Header"
+msgstr ""
+
+#: ../post-types/header-post-type.php:23
+#: ../post-types/header-post-type.php:24
+msgid "View Header"
+msgstr ""
+
+#: ../post-types/header-post-type.php:25
+msgid "Search Headers"
+msgstr ""
+
+#: ../post-types/header-post-type.php:26
+msgid "No Headers found"
+msgstr ""
+
+#: ../post-types/header-post-type.php:27
+msgid "No Headers found in Trash"
+msgstr ""
+
+#: ../post-types/product-template-post-type.php:16
+#: ../post-types/product-template-post-type.php:18
+msgid "Product Templates"
+msgstr ""
+
+#: ../post-types/product-template-post-type.php:17
+msgid "Product Template"
+msgstr ""
+
+#: ../post-types/product-template-post-type.php:19
+msgid "Add Product Template"
+msgstr ""
+
+#: ../post-types/product-template-post-type.php:20
+msgid "Add New Product Template"
+msgstr ""
+
+#: ../post-types/product-template-post-type.php:21
+#: ../post-types/product-template-post-type.php:22
+msgid "Edit Product Template"
+msgstr ""
+
+#: ../post-types/product-template-post-type.php:23
+msgid "New Product Template"
+msgstr ""
+
+#: ../post-types/product-template-post-type.php:24
+#: ../post-types/product-template-post-type.php:25
+msgid "View Product Template"
+msgstr ""
+
+#: ../post-types/product-template-post-type.php:26
+msgid "Search Product Templates"
+msgstr ""
+
+#: ../post-types/product-template-post-type.php:27
+msgid "No Product Templates found"
+msgstr ""
+
+#: ../post-types/product-template-post-type.php:28
+msgid "No Product Templates found in Trash"
+msgstr ""
+
+#: ../privacy/register-privacy.php:73
+msgid "Comment"
+msgstr ""
+
+#: ../privacy/register-privacy.php:74
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../privacy/register-privacy.php:121
+msgid ""
+"Error: You must agree to our privacy policy to comment on this site..."
+msgstr ""
+
+#: ../privacy/register-privacy.php:164
+msgid "You must acknowledge and agree to the privacy policy"
+msgstr ""
+
+#: ../privacy/register-privacy.php:267
+msgid "Click to enable/disable google analytics tracking."
+msgstr ""
+
+#: ../privacy/register-privacy.php:285
+msgid "Click to enable/disable google webfonts."
+msgstr ""
+
+#: ../privacy/register-privacy.php:303
+msgid "Click to enable/disable google maps."
+msgstr ""
+
+#: ../privacy/register-privacy.php:321
+msgid "Click to enable/disable video embeds."
+msgstr ""
+
+#: ../privacy/register-privacy.php:419
+msgid "OK"
+msgstr ""
+
+#: ../privacy/register-privacy.php:445
+msgid "Cookie and Privacy Settings"
+msgstr ""
+
+#: ../privacy/register-privacy.php:448
+msgid "How we use cookies"
+msgstr ""
+
+#: ../privacy/register-privacy.php:449
+#, php-format
+msgid ""
+"We may request cookies to be set on your device. We use cookies to let us "
+"know when you visit our websites, how you interact with us, to enrich your "
+"user experience, and to customize your relationship with our website. %1$s"
+"%1$sClick on the different category headings to find out more. You can "
+"also change some of your preferences. Note that blocking some types of "
+"cookies may impact your experience on our websites and the services we are "
+"able to offer."
+msgstr ""
+
+#: ../privacy/register-privacy.php:451
+msgid "Essential Website Cookies"
+msgstr ""
+
+#: ../privacy/register-privacy.php:452
+#, php-format
+msgid ""
+"These cookies are strictly necessary to provide you with services "
+"available through our website and to use some of its features. %1$s"
+"%1$sBecause these cookies are strictly necessary to deliver the website, "
+"you cannot refuse them without impacting how our site functions. You can "
+"block or delete them by changing your browser settings and force blocking "
+"all cookies on this website."
+msgstr ""
+
+#: ../privacy/register-privacy.php:458
+msgid "Google Analytics Cookies"
+msgstr ""
+
+#: ../privacy/register-privacy.php:459
+#, php-format
+msgid ""
+"These cookies collect information that is used either in aggregate form to "
+"help us understand how our website is being used or how effective our "
+"marketing campaigns are, or to help us customize our website and "
+"application for you in order to enhance your experience. %1$s%1$sIf you do "
+"not want that we track your visist to our site you can disable tracking in "
+"your browser here: [dt_sc_privacy_google_tracking]"
+msgstr ""
+
+#: ../privacy/register-privacy.php:462
+msgid "Other external services"
+msgstr ""
+
+#: ../privacy/register-privacy.php:463
+#, php-format
+msgid ""
+"We also use different external services like Google Webfonts, Google Maps "
+"and external Video providers. Since these providers may collect personal "
+"data like your IP address we allow you to block them here. Please be aware "
+"that this might heavily reduce the functionality and appearance of our "
+"site. Changes will take effect once you reload the page.%1$s%1$s\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tGoogle Webfont Settings:\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t[dt_sc_privacy_google_webfonts]\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tGoogle Map Settings:\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t[dt_sc_privacy_google_maps]\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tVimeo and Youtube video embeds:\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t[dt_sc_privacy_video_embeds]"
+msgstr ""
+
+#: ../privacy/register-privacy.php:477
+msgid "Privacy Policy"
+msgstr ""
+
+#: ../privacy/register-privacy.php:478
+#, php-format
+msgid ""
+"You can read about our cookies and privacy settings in detail on our "
+"Privacy Policy Page. %1$s%1$s [dt_sc_privacy_link]"
+msgstr ""
+
+#: ../register-storelocator.php:7
+msgid "Custom template"
+msgstr ""
+
+#: ../register-storelocator.php:38
+msgid "Fix an Appointment"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:466
+msgid "Text"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:467
+msgid "Icon"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:468
+msgid "Blank"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:472
+msgid "Dribble"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:473
+msgid "Flickr"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:474
+msgid "Github"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:475
+msgid "Pinterest"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:476
+msgid "Twitter"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:477
+msgid "Youtube"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:478
+msgid "Android"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:479
+msgid "Dropbox"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:480
+msgid "Instagram"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:481
+msgid "Windows"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:482
+msgid "Apple"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:483
+msgid "Facebook"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:484
+msgid "Google Plus"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:485
+msgid "Linkedin"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:486
+msgid "Skype"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:487
+msgid "Tumblr"
+msgstr ""
+
+#: ../widgets/class-register-widgets.php:488
+msgid "Vimeo"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:14
+msgid "Blog Posts"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:24
+#: ../widgets/modules/blog/class-widget-lightbox.php:23
+#: ../widgets/modules/blog/class-widget-post-author-bio.php:23
+#: ../widgets/modules/blog/class-widget-post-author.php:23
+#: ../widgets/modules/blog/class-widget-post-categories.php:23
+#: ../widgets/modules/blog/class-widget-post-comment-box.php:23
+#: ../widgets/modules/blog/class-widget-post-comments.php:23
+#: ../widgets/modules/blog/class-widget-post-date.php:23
+#: ../widgets/modules/blog/class-widget-post-feature-image.php:23
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:23
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:24
+#: ../widgets/modules/blog/class-widget-post-navigation.php:23
+#: ../widgets/modules/blog/class-widget-post-related-article.php:23
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:23
+#: ../widgets/modules/blog/class-widget-post-socials.php:23
+#: ../widgets/modules/blog/class-widget-post-tags.php:23
+#: ../widgets/modules/blog/class-widget-post-title.php:23
+#: ../widgets/modules/class-widget-anytitle.php:27
+#: ../widgets/modules/class-widget-carousel.php:32
+#: ../widgets/modules/class-widget-events-list.php:27
+#: ../widgets/modules/class-widget-tabs.php:33
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:32
+#: ../widgets/modules/woocommerce/images-default/class-product-images-default.php:18
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:26
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:25
+#: ../widgets/modules/woocommerce/product-tabs/class-product-tabs.php:22
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:99
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:39
+#: ../widgets/modules/woocommerce/summary-nav-bar/class-product-summary-nav-bar.php:21
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:22
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:38
+msgid "General"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:28
+#: ../widgets/modules/blog/class-widget-blog-posts.php:166
+#: ../widgets/modules/blog/class-widget-blog-posts.php:192
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:42
+#: ../widgets/modules/class-widget-events-list.php:31
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:211
+msgid "Categories"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:37
+#: ../widgets/modules/class-widget-events-list.php:40
+msgid "Post Counts"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:39
+#: ../widgets/modules/class-widget-events-list.php:42
+msgid "Enter post count"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:44
+#: ../widgets/modules/class-widget-events-list.php:47
+msgid "Post Layout"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:47
+#: ../widgets/modules/class-widget-events-list.php:50
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:142
+msgid "Grid"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:48
+#: ../widgets/modules/class-widget-events-list.php:51
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:143
+msgid "List"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:49
+msgid "Cover"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:55
+#: ../widgets/modules/blog/class-widget-blog-posts.php:80
+msgid "Post Style"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:58
+#: ../widgets/modules/blog/class-widget-blog-posts.php:83
+#: ../widgets/modules/blog/class-widget-post-author.php:39
+#: ../widgets/modules/blog/class-widget-post-categories.php:38
+#: ../widgets/modules/blog/class-widget-post-comments.php:38
+#: ../widgets/modules/blog/class-widget-post-date.php:38
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:38
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:70
+#: ../widgets/modules/blog/class-widget-post-socials.php:38
+#: ../widgets/modules/blog/class-widget-post-tags.php:38
+msgid "Boxed"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:59
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:101
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:148
+msgid "Simple"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:60
+msgid "Overlap"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:61
+#: ../widgets/modules/blog/class-widget-blog-posts.php:85
+msgid "Content Overlay"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:62
+msgid "Simple with Background"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:63
+#: ../widgets/modules/blog/class-widget-blog-posts.php:86
+#: ../widgets/modules/class-widget-events-list.php:52
+msgid "Overlay"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:64
+#: ../widgets/modules/blog/class-widget-blog-posts.php:87
+msgid "Overlay II"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:65
+#: ../widgets/modules/blog/class-widget-blog-posts.php:88
+msgid "Overlay III"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:66
+msgid "Alternate"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:67
+msgid "Minimal"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:68
+msgid "Modern"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:69
+msgid "Classic"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:70
+msgid "Classic II"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:71
+msgid "Classic Overlay"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:72
+msgid "Grungy Boxed"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:73
+msgid "Title Overlap"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:84
+msgid "Canvas"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:89
+msgid "Trendy"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:90
+msgid "Mobile Phone"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:97
+#: ../widgets/modules/class-widget-events-list.php:58
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:66
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:149
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:49
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:48
+msgid "Columns"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:100
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:44
+#: ../widgets/modules/class-widget-events-list.php:61
+msgid "I Column"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:101
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:45
+#: ../widgets/modules/class-widget-events-list.php:62
+msgid "II Columns"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:102
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:46
+#: ../widgets/modules/class-widget-events-list.php:63
+msgid "III Columns"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:103
+#: ../widgets/modules/class-widget-events-list.php:64
+msgid "IV Columns"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:110
+msgid "List Type"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:113
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:160
+msgid "Left Thumb"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:114
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:161
+msgid "Right Thumb"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:121
+msgid "Elements Alignment"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:124
+#: ../widgets/modules/blog/class-widget-blog-posts.php:280
+#: ../widgets/modules/blog/class-widget-blog-posts.php:306
+#: ../widgets/modules/blog/class-widget-lightbox.php:45
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:87
+#: ../widgets/modules/class-widget-carousel.php:110
+#: ../widgets/modules/class-widget-events-list.php:100
+#: ../widgets/modules/woocommerce/menu-icon/class-widget-menu-icon.php:35
+msgid "None"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:125
+msgid "Align Left"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:126
+msgid "Align Center"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:127
+msgid "Align Right"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:134
+#: ../widgets/modules/class-widget-events-list.php:71
+msgid "Enable Equal Height?"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:135
+#: ../widgets/modules/blog/class-widget-blog-posts.php:145
+#: ../widgets/modules/blog/class-widget-blog-posts.php:212
+#: ../widgets/modules/blog/class-widget-blog-posts.php:221
+#: ../widgets/modules/blog/class-widget-blog-posts.php:232
+#: ../widgets/modules/blog/class-widget-post-feature-image.php:35
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:60
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:76
+#: ../widgets/modules/class-widget-events-list.php:72
+#: ../widgets/modules/class-widget-events-list.php:82
+msgid "Yes"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:136
+#: ../widgets/modules/blog/class-widget-blog-posts.php:146
+#: ../widgets/modules/blog/class-widget-blog-posts.php:213
+#: ../widgets/modules/blog/class-widget-blog-posts.php:222
+#: ../widgets/modules/blog/class-widget-blog-posts.php:233
+#: ../widgets/modules/blog/class-widget-post-feature-image.php:36
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:61
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:77
+#: ../widgets/modules/class-widget-events-list.php:73
+#: ../widgets/modules/class-widget-events-list.php:83
+msgid "No"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:144
+msgid "Display Gallery Slider?"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:155
+#: ../widgets/modules/blog/class-widget-blog-posts.php:186
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:36
+msgid "Element"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:158
+msgid "Feature Image"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:159
+#: ../widgets/modules/blog/class-widget-lightbox.php:35
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:34
+#: ../widgets/modules/class-widget-testimonial-carousel.php:50
+msgid "Title"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:160
+#: ../widgets/modules/class-widget-tabs.php:82
+#: ../widgets/modules/class-widget-testimonial-carousel.php:79
+#: ../widgets/modules/class-widget-testimonial-carousel.php:218
+msgid "Content"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:161
+#: ../widgets/modules/blog/class-widget-blog-posts.php:248
+msgid "Read More"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:162
+msgid "Meta Group"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:163
+#: ../widgets/modules/blog/class-widget-blog-posts.php:189
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:39
+msgid "Author"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:164
+#: ../widgets/modules/blog/class-widget-blog-posts.php:190
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:40
+msgid "Date"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:165
+#: ../widgets/modules/blog/class-widget-blog-posts.php:191
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:41
+msgid "Comments"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:167
+#: ../widgets/modules/blog/class-widget-blog-posts.php:193
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:43
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:219
+msgid "Tags"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:168
+#: ../widgets/modules/blog/class-widget-blog-posts.php:194
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:44
+msgid "Social Share"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:169
+#: ../widgets/modules/blog/class-widget-blog-posts.php:195
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:45
+msgid "Likes & Views"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:175
+msgid "Elements & Positioning"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:201
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:51
+msgid "Meta Group Positioning"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:211
+msgid "Enable Post Format?"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:220
+msgid "Display Video & Audio for Posts?"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:226
+msgid "YES! to display video & audio, instead of feature image for posts"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:231
+#: ../widgets/modules/class-widget-events-list.php:81
+msgid "Enable Excerpt Text?"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:240
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:68
+#: ../widgets/modules/class-widget-events-list.php:90
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:247
+msgid "Read More Text"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:253
+msgid "Image Hover Style"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:256
+#: ../widgets/modules/blog/class-widget-post-author.php:37
+#: ../widgets/modules/blog/class-widget-post-comment-box.php:37
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:94
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:194
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:256
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:314
+msgid "Default"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:257
+msgid "Blur"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:258
+msgid "Black and White"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:259
+msgid "Brightness"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:260
+msgid "Fade InLeft"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:261
+msgid "Fade InRight"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:262
+msgid "Hue-Rotate"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:263
+msgid "Invert"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:264
+msgid "Opacity"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:265
+msgid "Rotate"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:266
+msgid "Rotate Alt"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:267
+msgid "Scale In"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:268
+msgid "Scale Out"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:269
+msgid "Sepia"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:270
+msgid "Tint"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:272
+msgid "Note: Fade, Rotate & Scale Styles will not work for Gallery Sliders."
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:277
+msgid "Image Overlay Style"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:281
+msgid "Fixed"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:282
+msgid "Top to Bottom"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:283
+msgid "Bottom to Top"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:284
+msgid "Right to Left"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:285
+msgid "Left to Right"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:286
+msgid "Middle"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:287
+msgid "Middle Radial"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:288
+msgid "Gradient - Top to Bottom"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:289
+msgid "Gradient - Bottom to Top"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:290
+msgid "Gradient - Right to Left"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:291
+msgid "Gradient - Left to Right"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:292
+msgid "Gradient - Radial"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:293
+msgid "Flash"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:294
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:117
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:164
+msgid "Circle"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:295
+msgid "Horizontal Elastic"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:296
+msgid "Vertical Elastic"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:303
+#: ../widgets/modules/class-widget-events-list.php:97
+msgid "Pagination Style"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:307
+#: ../widgets/modules/class-widget-events-list.php:101
+msgid "Older & Newer"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:308
+#: ../widgets/modules/class-widget-events-list.php:102
+msgid "Numbered"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:309
+#: ../widgets/modules/blog/class-widget-blog-posts.php:532
+msgid "Load More"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:310
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:316
+#: ../widgets/modules/blog/class-widget-lightbox.php:54
+#: ../widgets/modules/blog/class-widget-post-author-bio.php:34
+#: ../widgets/modules/blog/class-widget-post-author.php:50
+#: ../widgets/modules/blog/class-widget-post-categories.php:49
+#: ../widgets/modules/blog/class-widget-post-comments.php:49
+#: ../widgets/modules/blog/class-widget-post-date.php:49
+#: ../widgets/modules/blog/class-widget-post-feature-image.php:44
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:49
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:82
+#: ../widgets/modules/blog/class-widget-post-navigation.php:34
+#: ../widgets/modules/blog/class-widget-post-related-article.php:34
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:96
+#: ../widgets/modules/blog/class-widget-post-socials.php:49
+#: ../widgets/modules/blog/class-widget-post-tags.php:49
+#: ../widgets/modules/blog/class-widget-post-title.php:34
+#: ../widgets/modules/class-widget-anytitle.php:53
+#: ../widgets/modules/class-widget-carousel.php:164
+#: ../widgets/modules/class-widget-events-list.php:108
+#: ../widgets/modules/class-widget-tabs.php:117
+#: ../widgets/modules/class-widget-testimonial-carousel.php:156
+msgid "Extra class name"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:317
+#: ../widgets/modules/blog/class-widget-lightbox.php:55
+#: ../widgets/modules/blog/class-widget-post-author-bio.php:35
+#: ../widgets/modules/blog/class-widget-post-author.php:51
+#: ../widgets/modules/blog/class-widget-post-categories.php:50
+#: ../widgets/modules/blog/class-widget-post-comments.php:50
+#: ../widgets/modules/blog/class-widget-post-date.php:50
+#: ../widgets/modules/blog/class-widget-post-feature-image.php:45
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:50
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:83
+#: ../widgets/modules/blog/class-widget-post-navigation.php:35
+#: ../widgets/modules/blog/class-widget-post-related-article.php:35
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:97
+#: ../widgets/modules/blog/class-widget-post-socials.php:50
+#: ../widgets/modules/blog/class-widget-post-tags.php:50
+#: ../widgets/modules/blog/class-widget-post-title.php:35
+#: ../widgets/modules/class-widget-anytitle.php:54
+#: ../widgets/modules/class-widget-carousel.php:165
+#: ../widgets/modules/class-widget-events-list.php:109
+#: ../widgets/modules/class-widget-tabs.php:118
+#: ../widgets/modules/class-widget-testimonial-carousel.php:157
+msgid ""
+"Style particular element differently - add a class name and refer to it in "
+"custom CSS"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:405
+msgid "No Posts Found"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:410
+msgid "No Posts Found in Category "
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:522
+#: ../widgets/modules/class-widget-events-list.php:260
+msgid " Newer Posts"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-blog-posts.php:523
+#: ../widgets/modules/class-widget-events-list.php:261
+msgid "Older Posts "
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-lightbox.php:13
+msgid "Lightbox Image"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-lightbox.php:28
+msgid "Choose Image"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-lightbox.php:30
+msgid "Choose any one image from media."
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-lightbox.php:37
+msgid "Put the image title on preview."
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-lightbox.php:42
+#: ../widgets/modules/class-widget-anytitle.php:64
+#: ../widgets/modules/class-widget-testimonial-carousel.php:91
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:85
+msgid "Alignment"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-lightbox.php:46
+#: ../widgets/modules/class-widget-anytitle.php:70
+#: ../widgets/modules/class-widget-testimonial-carousel.php:97
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:163
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:89
+msgid "Left"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-lightbox.php:47
+#: ../widgets/modules/class-widget-anytitle.php:74
+#: ../widgets/modules/class-widget-testimonial-carousel.php:101
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:90
+msgid "Center"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-lightbox.php:48
+#: ../widgets/modules/class-widget-anytitle.php:78
+#: ../widgets/modules/class-widget-testimonial-carousel.php:105
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:164
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:91
+msgid "Right"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-author-bio.php:13
+msgid "Post - Author Bio"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-author-bio.php:28
+#: ../widgets/modules/blog/class-widget-post-author.php:28
+#: ../widgets/modules/blog/class-widget-post-categories.php:28
+#: ../widgets/modules/blog/class-widget-post-comment-box.php:28
+#: ../widgets/modules/blog/class-widget-post-comments.php:28
+#: ../widgets/modules/blog/class-widget-post-date.php:28
+#: ../widgets/modules/blog/class-widget-post-feature-image.php:28
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:28
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:29
+#: ../widgets/modules/blog/class-widget-post-navigation.php:28
+#: ../widgets/modules/blog/class-widget-post-related-article.php:28
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:28
+#: ../widgets/modules/blog/class-widget-post-socials.php:28
+#: ../widgets/modules/blog/class-widget-post-tags.php:28
+#: ../widgets/modules/blog/class-widget-post-title.php:28
+msgid "Post ID"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-author-bio.php:29
+#: ../widgets/modules/blog/class-widget-post-author.php:29
+#: ../widgets/modules/blog/class-widget-post-categories.php:29
+#: ../widgets/modules/blog/class-widget-post-comment-box.php:29
+#: ../widgets/modules/blog/class-widget-post-comments.php:29
+#: ../widgets/modules/blog/class-widget-post-date.php:29
+#: ../widgets/modules/blog/class-widget-post-feature-image.php:29
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:29
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:30
+#: ../widgets/modules/blog/class-widget-post-navigation.php:29
+#: ../widgets/modules/blog/class-widget-post-related-article.php:29
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:29
+#: ../widgets/modules/blog/class-widget-post-socials.php:29
+#: ../widgets/modules/blog/class-widget-post-tags.php:29
+#: ../widgets/modules/blog/class-widget-post-title.php:29
+msgid "Enter Post ID (In single post no need to enter)."
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-author.php:13
+msgid "Post - Author"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-author.php:34
+#: ../widgets/modules/blog/class-widget-post-categories.php:34
+#: ../widgets/modules/blog/class-widget-post-comment-box.php:34
+#: ../widgets/modules/blog/class-widget-post-comments.php:34
+#: ../widgets/modules/blog/class-widget-post-date.php:34
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:34
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:61
+#: ../widgets/modules/blog/class-widget-post-socials.php:34
+#: ../widgets/modules/blog/class-widget-post-tags.php:34
+msgid "Style"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-author.php:38
+#: ../widgets/modules/blog/class-widget-post-categories.php:37
+#: ../widgets/modules/blog/class-widget-post-comments.php:37
+#: ../widgets/modules/blog/class-widget-post-date.php:37
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:37
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:64
+#: ../widgets/modules/blog/class-widget-post-socials.php:37
+#: ../widgets/modules/blog/class-widget-post-tags.php:37
+msgid "Space"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-author.php:40
+#: ../widgets/modules/blog/class-widget-post-categories.php:39
+#: ../widgets/modules/blog/class-widget-post-comments.php:39
+#: ../widgets/modules/blog/class-widget-post-date.php:39
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:39
+#: ../widgets/modules/blog/class-widget-post-socials.php:39
+#: ../widgets/modules/blog/class-widget-post-tags.php:39
+msgid "Curvy"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-author.php:41
+#: ../widgets/modules/blog/class-widget-post-categories.php:40
+#: ../widgets/modules/blog/class-widget-post-comments.php:40
+#: ../widgets/modules/blog/class-widget-post-date.php:40
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:40
+#: ../widgets/modules/blog/class-widget-post-socials.php:40
+#: ../widgets/modules/blog/class-widget-post-tags.php:40
+msgid "Round"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-author.php:42
+#: ../widgets/modules/blog/class-widget-post-categories.php:41
+#: ../widgets/modules/blog/class-widget-post-comments.php:41
+#: ../widgets/modules/blog/class-widget-post-date.php:41
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:41
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:73
+#: ../widgets/modules/blog/class-widget-post-socials.php:41
+#: ../widgets/modules/blog/class-widget-post-tags.php:41
+msgid "Filled"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-author.php:43
+#: ../widgets/modules/blog/class-widget-post-categories.php:42
+#: ../widgets/modules/blog/class-widget-post-comments.php:42
+#: ../widgets/modules/blog/class-widget-post-date.php:42
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:42
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:74
+#: ../widgets/modules/blog/class-widget-post-socials.php:42
+#: ../widgets/modules/blog/class-widget-post-tags.php:42
+msgid "Filled Curvy"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-author.php:44
+#: ../widgets/modules/blog/class-widget-post-categories.php:43
+#: ../widgets/modules/blog/class-widget-post-comments.php:43
+#: ../widgets/modules/blog/class-widget-post-date.php:43
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:43
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:75
+#: ../widgets/modules/blog/class-widget-post-socials.php:43
+#: ../widgets/modules/blog/class-widget-post-tags.php:43
+msgid "Filled Round"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-categories.php:13
+msgid "Post - Categories"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-comment-box.php:13
+msgid "Post - Comment Box"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-comment-box.php:38
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:116
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:163
+msgid "Rounded"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-comment-box.php:39
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:115
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:162
+msgid "Square"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-comments.php:13
+msgid "Post - Comments"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-date.php:13
+msgid "Post - Date"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-feature-image.php:13
+msgid "Post - Feature Image"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-feature-image.php:34
+msgid "Enable Lightbox?"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-feature-image.php:39
+msgid "YES! to enable lightbox preview feature."
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-likes-views.php:13
+msgid "Post - Likes & Views"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:14
+msgid "Post - Meta Group"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:65
+msgid "Slash"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:66
+#: ../widgets/modules/class-widget-carousel.php:100
+msgid "Vertical"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:67
+#: ../widgets/modules/class-widget-carousel.php:99
+msgid "Horizontal"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:68
+msgid "Dot"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:69
+msgid "Comma"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:71
+msgid "Boxed Curvy"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:72
+msgid "Boxed Round"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-meta-group.php:77
+msgid "Select any one of meta group styling."
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-navigation.php:13
+msgid "Post - Navigation"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-related-article.php:13
+msgid "Post - Related Article"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:13
+msgid "Post - Related Posts"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:35
+msgid "Related Posts"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:36
+msgid "Put the related posts section title."
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:41
+msgid "Column"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:52
+msgid "Count"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:54
+msgid "Put no.of related posts to show."
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:59
+msgid "Enable Excerpt?"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:75
+msgid "Enable Carousel?"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:84
+msgid "Navigation Style"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:88
+msgid "Navigations"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-related-posts.php:89
+msgid "Pager"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-socials.php:13
+msgid "Post - Socials"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-tags.php:13
+msgid "Post - Tags"
+msgstr ""
+
+#: ../widgets/modules/blog/class-widget-post-title.php:13
+msgid "Post - Title"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:13
+msgid "Any Title"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:32
+msgid "Enter Title"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:33
+msgid "Enter the text of title."
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:37
+msgid "Tag"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:41
+msgid "H1"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:42
+msgid "H2"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:43
+msgid "H3"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:44
+msgid "H4"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:45
+msgid "H5"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:46
+msgid "H6"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:60
+#: ../widgets/modules/class-widget-tabs.php:100
+msgid "Style Options"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:88
+msgid "Title Font Size"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:108
+msgid "Color"
+msgstr ""
+
+#: ../widgets/modules/class-widget-anytitle.php:116
+#: ../widgets/modules/class-widget-testimonial-carousel.php:199
+#: ../widgets/modules/class-widget-testimonial-carousel.php:341
+msgid "Border Color"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:14
+msgid "Any Carousel"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:37
+#: ../widgets/modules/class-widget-tabs.php:72
+msgid "Select Template"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:44
+msgid "Carousel Items"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:45
+msgid ""
+"Carousel items is a template which you can choose from Elementor library. "
+"Each template will be a carousel content"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:52
+msgid "Carousel Options"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:60
+msgid "Slides to Show"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:68
+msgid "Slides to Scroll"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:75
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:89
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:251
+msgid "Effect"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:79
+msgid "Slide"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:80
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:95
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:257
+msgid "Fade"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:81
+msgid "Cube"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:82
+msgid "Coverflow"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:83
+msgid "Flip"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:89
+msgid "Arrows"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:95
+msgid "Direction"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:106
+msgid "Pagination"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:111
+msgid "Dots"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:112
+msgid "Fraction"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:113
+msgid "Progress"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:114
+msgid "Scrollbar"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:120
+msgid "Transition Duration"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:127
+#: ../widgets/modules/class-widget-testimonial-carousel.php:142
+msgid "Autoplay"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:134
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:145
+msgid "Infinite Loop"
+msgstr ""
+
+#: ../widgets/modules/class-widget-carousel.php:152
+msgid "Pause on Interaction"
+msgstr ""
+
+#: ../widgets/modules/class-widget-events-list.php:13
+msgid "Events List"
+msgstr ""
+
+#: ../widgets/modules/class-widget-events-list.php:265
+msgid "No Events Found"
+msgstr ""
+
+#: ../widgets/modules/class-widget-tabs.php:15
+#: ../widgets/modules/class-widget-tabs.php:91
+msgid "Tabs"
+msgstr ""
+
+#: ../widgets/modules/class-widget-tabs.php:39
+msgid "Tab Title"
+msgstr ""
+
+#: ../widgets/modules/class-widget-tabs.php:44
+msgid "Title BG Color"
+msgstr ""
+
+#: ../widgets/modules/class-widget-tabs.php:52
+msgid "Title Color"
+msgstr ""
+
+#: ../widgets/modules/class-widget-tabs.php:61
+msgid "Title Box Shadow"
+msgstr ""
+
+#: ../widgets/modules/class-widget-tabs.php:66
+msgid "Enable Content?"
+msgstr ""
+
+#: ../widgets/modules/class-widget-tabs.php:83
+msgid "Content for this tab."
+msgstr ""
+
+#: ../widgets/modules/class-widget-tabs.php:92
+msgid ""
+"Tabs template which you can choose from Elementor library. Each template "
+"will be a tab content"
+msgstr ""
+
+#: ../widgets/modules/class-widget-tabs.php:104
+msgid "Type"
+msgstr ""
+
+#: ../widgets/modules/class-widget-tabs.php:108
+msgid "Type 1"
+msgstr ""
+
+#: ../widgets/modules/class-widget-tabs.php:109
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:195
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:315
+msgid "Type 2"
+msgstr ""
+
+#: ../widgets/modules/class-widget-tabs.php:110
+msgid "Type 3"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:17
+msgid "Testimonial Carousel - Special"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:45
+#: ../widgets/modules/class-widget-testimonial-carousel.php:85
+#: ../widgets/modules/class-widget-testimonial-carousel.php:166
+msgid "Slides"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:55
+msgid "Sub Title"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:61
+#: ../widgets/modules/class-widget-testimonial-carousel.php:314
+#: ../wp-widgets/widget-twitter.php:184
+msgid "Image"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:67
+#: ../widgets/modules/class-widget-testimonial-carousel.php:260
+msgid "Name"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:68
+#: ../widgets/modules/class-widget-testimonial-carousel.php:386
+#: ../widgets/modules/class-widget-testimonial-carousel.php:394
+#: ../widgets/modules/class-widget-testimonial-carousel.php:402
+msgid "John Doe"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:73
+#: ../widgets/modules/class-widget-testimonial-carousel.php:286
+msgid "Role"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:74
+#: ../widgets/modules/class-widget-testimonial-carousel.php:387
+#: ../widgets/modules/class-widget-testimonial-carousel.php:395
+#: ../widgets/modules/class-widget-testimonial-carousel.php:403
+msgid "CEO"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:80
+msgid ""
+"I am slide content. Click edit button to change this text. Lorem ipsum "
+"dolor sit amet, consectetur adipiscing elit. Ut elit tellus."
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:113
+msgid "Width"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:138
+msgid "Additional Options"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:148
+msgid "Speed"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:171
+msgid "Background Color"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:179
+msgid "Border Size"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:187
+#: ../widgets/modules/class-widget-testimonial-carousel.php:370
+msgid "Border Radius"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:207
+msgid "Padding"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:223
+msgid "Gap"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:240
+#: ../widgets/modules/class-widget-testimonial-carousel.php:266
+#: ../widgets/modules/class-widget-testimonial-carousel.php:292
+msgid "Text Color"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:319
+msgid "Size"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:333
+msgid "Border"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:353
+msgid "Border Width"
+msgstr ""
+
+#: ../widgets/modules/class-widget-testimonial-carousel.php:385
+#: ../widgets/modules/class-widget-testimonial-carousel.php:393
+#: ../widgets/modules/class-widget-testimonial-carousel.php:401
+msgid ""
+"I am slide content. Click edit button to change this text. Lorem ipsum "
+"dolor sit amet, consectetur adipiscing elit. Ut elit."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/360-image-viewer/class-product-360-image-viewer.php:12
+msgid "Product Single - Images 360 Viewer"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/360-image-viewer/class-product-360-image-viewer.php:26
+msgid "Product"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/360-image-viewer/class-product-360-image-viewer.php:30
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:36
+#: ../widgets/modules/woocommerce/images-default/class-product-images-default.php:22
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:30
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:29
+#: ../widgets/modules/woocommerce/product-tabs/class-product-tabs.php:26
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:43
+#: ../widgets/modules/woocommerce/summary-nav-bar/class-product-summary-nav-bar.php:25
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:26
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:42
+msgid "Product Id"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/360-image-viewer/class-product-360-image-viewer.php:32
+msgid ""
+"Provide product id for which you have to display product images in list "
+"format. No need to provide ID if it is used in Product single page."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/360-image-viewer/class-product-360-image-viewer.php:36
+msgid "Enable PopUp Viewer"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/360-image-viewer/class-product-360-image-viewer.php:38
+msgid "If you wish, you can show 360 viewer in popup."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/360-image-viewer/class-product-360-image-viewer.php:39
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:45
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:55
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:65
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:111
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:121
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:131
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:141
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:151
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:183
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:205
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:39
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:49
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:59
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:77
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:53
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:63
+#: ../widgets/modules/woocommerce/product-tabs/class-product-tabs.php:34
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:273
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:283
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:293
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:303
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:325
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:76
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:126
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:136
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:172
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:182
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:75
+msgid "yes"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/360-image-viewer/class-product-360-image-viewer.php:40
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:46
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:56
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:66
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:112
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:122
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:132
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:142
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:152
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:184
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:206
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:40
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:50
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:60
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:78
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:54
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:64
+#: ../widgets/modules/woocommerce/product-tabs/class-product-tabs.php:35
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:274
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:284
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:294
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:304
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:326
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:77
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:127
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:137
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:173
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:183
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:76
+msgid "no"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/360-image-viewer/class-product-360-image-viewer.php:48
+msgid "Source"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/360-image-viewer/class-product-360-image-viewer.php:56
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:74
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:86
+#: ../widgets/modules/woocommerce/menu-icon/class-widget-menu-icon.php:44
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:80
+#: ../widgets/modules/woocommerce/product-tabs/class-product-tabs.php:44
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:178
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:85
+#: ../widgets/modules/woocommerce/summary-nav-bar/class-product-summary-nav-bar.php:44
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:192
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:84
+msgid "Class"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/360-image-viewer/class-product-360-image-viewer.php:116
+msgid "Close"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/360-image-viewer/class-product-360-image-viewer.php:160
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:392
+#: ../widgets/modules/woocommerce/images-default/class-product-images-default.php:51
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:211
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:201
+#: ../widgets/modules/woocommerce/product-tabs/class-product-tabs.php:81
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:135
+#: ../widgets/modules/woocommerce/summary-nav-bar/class-product-summary-nav-bar.php:102
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:436
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:133
+msgid "Please provide product id to display corresponding data!"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:12
+msgid "Product Single - Images Carousel"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:38
+msgid ""
+"Provide product id for which you have to display product iamges carousel. "
+"No need to provide ID if it is used in Product single page."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:42
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:36
+msgid "Include Feature Image"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:44
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:38
+msgid "If you wish, you can include featured image in this gallery."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:52
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:46
+msgid "Include Product Labels"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:54
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:48
+msgid "If you wish, you can include product labels in this gallery."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:62
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:56
+msgid "Enable Thumb Enlarger"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:64
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:58
+msgid "If you wish, you can enable thumbnail enlarger in this gallery."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:85
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:247
+msgid "Carousel Settings"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:91
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:253
+msgid ""
+"Choose effect for your carousel. Slides Per View has to be 1 for Fade "
+"effect."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:100
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:262
+msgid "Slides Per View"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:102
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:160
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:264
+msgid "Number slides of to show in view port."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:108
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:270
+msgid "Enable Loop Mode"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:110
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:272
+msgid "If you wish, you can enable continuous loop mode for your carousel."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:118
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:280
+msgid "Enable Mousewheel Control"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:120
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:282
+msgid "If you wish, you can enable mouse wheel control for your carousel."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:128
+msgid "Enable Vertical Direction"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:130
+msgid "To make your slides to navigate vertically."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:138
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:290
+msgid "Enable Bullet Pagination"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:140
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:292
+msgid "To enable bullet pagination."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:148
+msgid "Enable Thumbnail Pagination"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:150
+msgid "To enable thumbnail pagination."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:158
+msgid "Thumbnail Position"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:162
+msgid "Bottom"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:171
+msgid "Number Of Images - Thumbnail"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:173
+msgid "Number of images to show in thumbnails."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:180
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:300
+msgid "Enable Arrow Pagination"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:182
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:302
+msgid "To enable arrow pagination."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:190
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:310
+msgid "Arrow Type"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:192
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:312
+msgid "Choose arrow pagination type for your carousel."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:202
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:322
+msgid "Enable Scrollbar"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:204
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:324
+msgid "To enable scrollbar for your carousel."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:212
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:332
+msgid "Space Between Sliders"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:214
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:334
+msgid "Space between sliders can be given here."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:353
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:524
+msgid "Prev"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:354
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:525
+msgid "Next"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:371
+#: ../widgets/modules/woocommerce/images-carousel/class-product-images-carousel.php:378
+msgid "Gallery Thumb"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-default/class-product-images-default.php:12
+msgid "Product Single - Images Default"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-default/class-product-images-default.php:24
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:32
+msgid ""
+"Provide product id for which you have to display woocommerce default "
+"product images gallery. No need to provide ID if it is used in Product "
+"single page."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:12
+msgid "Product Single - Images List"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:68
+msgid "Number columns to show images in."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:74
+msgid "Enable Grid Space"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/images-list/class-product-images-list.php:76
+msgid "If you wish, you can enable grid space in this gallery."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/menu-icon/class-widget-menu-icon.php:12
+msgid "Menu Icon"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/menu-icon/class-widget-menu-icon.php:26
+msgid "Cart Icon"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/menu-icon/class-widget-menu-icon.php:30
+msgid "Cart Action"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/menu-icon/class-widget-menu-icon.php:32
+msgid "Choose how you want to display the cart content."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/menu-icon/class-widget-menu-icon.php:36
+msgid "Notification Widget"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/menu-icon/class-widget-menu-icon.php:37
+msgid "Sidebar Widget"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:12
+msgid "Product Single - Tabs Exploded"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:31
+#: ../widgets/modules/woocommerce/product-tabs/class-product-tabs.php:28
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:45
+#: ../widgets/modules/woocommerce/summary-nav-bar/class-product-summary-nav-bar.php:27
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:28
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:44
+msgid ""
+"Provide product id for which you have to display product summary items. No "
+"need to provide ID if it is used in Product single page."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:35
+msgid "Tab"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:37
+msgid "Choose tab that you would like to use."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:40
+msgid "Description"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:41
+msgid "Review"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:42
+msgid "Additional Information"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:43
+msgid "Custom Tab 1"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:44
+msgid "Custom Tab 2"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:45
+msgid "Custom Tab 3"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:46
+msgid "Custom Tab 4"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:51
+#: ../widgets/modules/woocommerce/product-tabs/class-product-tabs.php:32
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:73
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:72
+msgid "Hide Title"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:57
+#: ../widgets/modules/woocommerce/product-tabs/class-product-tabs.php:38
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:75
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:74
+msgid "If you wish to hide title you can do it here"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:61
+msgid "Apply Content Scroll"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:67
+msgid "If you wish to apply scroll you can do it here"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:71
+msgid "Scroll Height (px)"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs-exploded/class-product-tabs-exploded.php:73
+msgid "Specify height for your section here."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/product-tabs/class-product-tabs.php:12
+msgid "Product Single - Tabs"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:12
+msgid "Products"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:75
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:22
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:22
+msgid "Admin Option"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:103
+msgid "Data Source"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:106
+msgid "All Products"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:107
+msgid "Featured Products"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:108
+msgid "Sale Products"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:109
+msgid "Bestsellers"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:114
+msgid "Show Pagination"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:116
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:125
+msgid "True"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:117
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:126
+msgid "False"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:123
+msgid "Enable Carousel"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:133
+msgid "Post Per Page"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:139
+msgid "Display Mode"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:157
+msgid "List Options"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:168
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:65
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:64
+msgid "Product Style Template"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:170
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:59
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:67
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:58
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:66
+msgid "Choose number of products that you like to display."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:186
+msgid "Current Page"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:195
+msgid "Offset"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:207
+msgid "Filters"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:214
+msgid "Choose categories that you want to display."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:222
+msgid "Choose tags that you want to display."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:227
+msgid "Include"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:230
+msgid "Choose product that you want to display."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:235
+msgid "Exclude"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/products/class-widget-products.php:238
+msgid "Choose product that you don't want to display."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:12
+msgid "Product Single - Related Products"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:51
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:50
+msgid "Choose column that you like to display upsell products."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/related-products/class-related-products.php:57
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:56
+msgid "Limit"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary-nav-bar/class-product-summary-nav-bar.php:12
+msgid "Product Single - Summary Nav Bar"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary-nav-bar/class-product-summary-nav-bar.php:31
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:32
+msgid "Items"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary-nav-bar/class-product-summary-nav-bar.php:36
+msgid "Summary Nav - Breadcrumb"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary-nav-bar/class-product-summary-nav-bar.php:37
+msgid "Summary Nav - Navigation"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:12
+msgid "Product Single - Summary"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:37
+msgid "Summary Title"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:38
+msgid "Summary Rating"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:39
+msgid "Summary Price"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:40
+msgid "Summary Count Down"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:41
+msgid "Summary Excerpt"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:42
+msgid "Summary Add To Cart"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:43
+msgid "Summary Buttons"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:44
+msgid "Summary Meta"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:45
+msgid "Summary Meta SKU"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:46
+msgid "Summary Meta Category"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:47
+msgid "Summary Meta Tag"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:48
+msgid "Summary Share / Follow"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:49
+msgid "Summary Additional Content"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:50
+msgid "Summary Separator 1"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:51
+msgid "Summary Separator 2"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:53
+#, php-format
+msgid ""
+"Choose items that you want to display in summary and also you can change "
+"its order here. Start typing %1$s to list all available options."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:57
+msgid "Button Items"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:61
+msgid "Button Wishlist"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:62
+msgid "Button Compare"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:63
+msgid "Button Size Guide"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:65
+#, php-format
+msgid ""
+"Choose button items that you want to display in Summary Buttons and also "
+"you can change its order here. Start typing %1$s to list all available "
+"options."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:69
+msgid "Additional Content"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:74
+msgid "Share / Follow Type"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:79
+msgid "Follow"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:81
+msgid "Choose between Share / Follow you would like to use."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:93
+msgid "Choose alignment you would like to use for your product summary."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:97
+msgid "Button Style"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:102
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:149
+msgid "BG Fill"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:103
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:150
+msgid "Border Fill"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:104
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:151
+msgid "Skin BG Fill"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:105
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:152
+msgid "Skin Border Fill"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:107
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:120
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:130
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:140
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:154
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:176
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:186
+msgid "This option is applicable for all buttons used in product summary."
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:111
+msgid "Button Radius"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:124
+msgid "Button Inline Alignment"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:134
+msgid "Button Hide Text"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:144
+msgid "Social Icon Style"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:158
+msgid "Social Icon Radius"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:170
+msgid "Social Icon Inline Alignment"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:180
+msgid "Meta Inline Alignment"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:381
+msgid "N/A"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/summary/class-product-summary.php:382
+msgid "SKU:"
+msgstr ""
+
+#: ../widgets/modules/woocommerce/upsell-products/class-upsell-products.php:12
+msgid "Product Single - Upsell Products"
+msgstr ""
+
+#: ../wp-widgets/widget-events-list.php:7
+#: ../wp-widgets/widget-events-schedule.php:7
+msgid "To list out events"
+msgstr ""
+
+#: ../wp-widgets/widget-events-list.php:10
+msgid " Events List"
+msgstr ""
+
+#: ../wp-widgets/widget-events-list.php:28
+#: ../wp-widgets/widget-events-schedule.php:28
+#: ../wp-widgets/widget-flickr.php:31
+#: ../wp-widgets/widget-recent-posts.php:32
+#: ../wp-widgets/widget-twitter.php:40
+msgid "Title:"
+msgstr ""
+
+#: ../wp-widgets/widget-events-list.php:35
+#: ../wp-widgets/widget-events-schedule.php:35
+#: ../wp-widgets/widget-recent-posts.php:39
+msgid ""
+"Choose the categories you want to display (multiple selection possible)"
+msgstr ""
+
+#: ../wp-widgets/widget-events-list.php:38
+#: ../wp-widgets/widget-events-schedule.php:38
+#: ../wp-widgets/widget-recent-posts.php:42
+msgid "Select"
+msgstr ""
+
+#: ../wp-widgets/widget-events-list.php:51
+#: ../wp-widgets/widget-events-schedule.php:51
+#: ../wp-widgets/widget-recent-posts.php:73
+msgid "No.of posts to show:"
+msgstr ""
+
+#: ../wp-widgets/widget-events-list.php:110
+#: ../wp-widgets/widget-events-schedule.php:112
+msgid "No Events found"
+msgstr ""
+
+#: ../wp-widgets/widget-events-schedule.php:10
+msgid " Events Schedule"
+msgstr ""
+
+#: ../wp-widgets/widget-events-schedule.php:106
+msgid "to"
+msgstr ""
+
+#: ../wp-widgets/widget-flickr.php:7
+msgid "A widget that show last flickr photo streams"
+msgstr ""
+
+#: ../wp-widgets/widget-flickr.php:10
+msgid " Flickr Widget"
+msgstr ""
+
+#: ../wp-widgets/widget-flickr.php:38
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../wp-widgets/widget-flickr.php:45 ../wp-widgets/widget-twitter.php:82
+msgid "How many entries do you want to show:"
+msgstr ""
+
+#: ../wp-widgets/widget-flickr.php:57 ../wp-widgets/widget-flickr.php:73
+msgid "What pictures to display"
+msgstr ""
+
+#: ../wp-widgets/widget-flickr.php:60
+msgid "Latest"
+msgstr ""
+
+#: ../wp-widgets/widget-flickr.php:61
+msgid "Random"
+msgstr ""
+
+#: ../wp-widgets/widget-flickr.php:76
+msgid "square"
+msgstr ""
+
+#: ../wp-widgets/widget-flickr.php:77
+msgid "thumbnail"
+msgstr ""
+
+#: ../wp-widgets/widget-flickr.php:78
+msgid "medium"
+msgstr ""
+
+#: ../wp-widgets/widget-recent-posts.php:7
+msgid "To list out posts"
+msgstr ""
+
+#: ../wp-widgets/widget-recent-posts.php:10
+msgid " Posts"
+msgstr ""
+
+#: ../wp-widgets/widget-recent-posts.php:55
+msgid "Display title only or title &amp; excerpt"
+msgstr ""
+
+#: ../wp-widgets/widget-recent-posts.php:68
+msgid "Show Image"
+msgstr ""
+
+#: ../wp-widgets/widget-recent-posts.php:152
+msgid "No Posts found"
+msgstr ""
+
+#: ../wp-widgets/widget-twitter.php:7
+msgid "To show latest twitter tweets"
+msgstr ""
+
+#: ../wp-widgets/widget-twitter.php:9
+msgid " Twitter Widget"
+msgstr ""
+
+#: ../wp-widgets/widget-twitter.php:15
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../wp-widgets/widget-twitter.php:47
+msgid "Consumer Key:"
+msgstr ""
+
+#: ../wp-widgets/widget-twitter.php:54
+msgid "Consumer Secret:"
+msgstr ""
+
+#: ../wp-widgets/widget-twitter.php:61
+msgid "Access Token:"
+msgstr ""
+
+#: ../wp-widgets/widget-twitter.php:68
+msgid "Access Token Secret:"
+msgstr ""
+
+#: ../wp-widgets/widget-twitter.php:75
+msgid "Enter your twitter username:"
+msgstr ""
+
+#: ../wp-widgets/widget-twitter.php:95
+msgid "Exclude @replies"
+msgstr ""
+
+#: ../wp-widgets/widget-twitter.php:102
+msgid "Show time of tweet"
+msgstr ""
+
+#: ../wp-widgets/widget-twitter.php:109
+msgid "Show user avatar"
+msgstr ""
+
+#: ../wp-widgets/widget-twitter.php:195
+msgid "No public Tweets found"
+msgstr ""
