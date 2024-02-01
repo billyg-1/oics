@@ -1,0 +1,1069 @@
+/* Table of Content
+==================================================
+	1.0  -  Custom Class
+	2.0  -  Browser Fix
+	3.0  -  DT Responsive*/
+
+
+/*--------------------------------------------------------------
+	1.0 - Custom Class
+	--------------------------------------------------------------*/
+
+
+/** Any Carousel **/
+
+.dt-sc-any-carousel-wrapper .dt-swiper-navigations {
+    display: block;
+    margin: 30px 0;
+    text-align: center;
+}
+
+.dt-swiper-button.swiper-button-next,
+.dt-swiper-button.swiper-button-prev {
+    background-image: none;
+    color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    font-size: 24px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    position: static;
+    margin: 0 5px;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    -ms-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+
+.custom-contact-form .dt-sc-one-half {
+    width: 48%;
+}
+
+.custom-contact-form .column.dt-sc-one-half {
+    margin: 0 0 0 4%;
+}
+
+.custom-contact-form .column.dt-sc-one-half.first {
+    margin: 0;
+}
+
+.custom-contact-form input,
+.custom-contact-form .selection-box select,
+.custom-contact-form textarea {
+    border-color: #eeeeee;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+    padding-left: 25px;
+}
+
+.custom-contact-form textarea {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.custom-contact-form input {
+    padding: 17px 25px;
+}
+
+.custom-contact-form input[type="file"] {
+    width: 100%;
+    border: 1px solid #eeeeee;
+}
+
+.custom-quick-contact-form input,
+.custom-quick-contact-form textarea {
+    margin: 0 0 10px;
+    padding: 17px 20px;
+}
+
+.custom-contact-form .selection-box select {
+    height: 54px;
+}
+
+.custom-contact-form .selection-box:before {
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid #808080;
+    right: 25px;
+}
+
+.custom-contact-form .selection-box:after {
+    border-width: 0;
+}
+
+.custom-contact-form .wpcf7-form-control-wrap:before {
+    display: none;
+}
+
+.custom-contact-form .wpcf7-form-control-wrap {
+    margin: 0 0 35px 0;
+}
+
+.custom-contact-form.elementor-widget-contact-form-7 .wpcf7 input.wpcf7-submit {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+    padding: 18px 30px;
+}
+
+.custom-quick-contact-form .wpcf7-form-control-wrap:before {
+    display: none;
+}
+
+.custom-contact-form.elementor-widget-contact-form-7 .wpcf7 .aligncenter {
+    position: relative;
+}
+
+.custom-contact-form form[action],
+.elementor-jet-subscribe-form form[action] {
+    box-shadow: none;
+    padding: 0;
+    border-radius: 0;
+    background-color: transparent;
+}
+
+::-webkit-input-placeholder {
+    color: #808080 !important;
+    opacity: 1 !important;
+}
+
+::-moz-placeholder {
+    color: #808080 !important;
+    opacity: 1 !important;
+}
+
+:-ms-input-placeholder {
+    color: #808080 !important;
+}
+
+.custom-quick-contact-form input,
+.custom-quick-contact-form textarea {
+    font-size: 16px;
+}
+
+.custom-contact-form.elementor-widget-contact-form-7 .wpcf7 .aligncenter input.wpcf7-submit.fullwidth,
+.custom-quick-contact-form.elementor-widget-contact-form-7 .wpcf7 .fullwidth input.wpcf7-submit {
+    background-color: #8700ff;
+}
+
+.custom-contact-form.abt-kids .aligncenter input.wpcf7-submit {
+    width: 100%;
+}
+
+.custom-contact-form.elementor-widget-contact-form-7 .wpcf7 .aligncenter input.wpcf7-submit.fullwidth {
+    padding: 16px 25px;
+}
+
+.custom-contact-form.elementor-widget-contact-form-7 .wpcf7 input.wpcf7-submit.fullwidth:hover,
+.custom-quick-contact-form.elementor-widget-contact-form-7 .wpcf7 .fullwidth input.wpcf7-submit:hover {
+    background-color: #000000;
+}
+
+.custom-contact-form.elementor-widget-contact-form-7 .wpcf7 .aligncenter input.wpcf7-submit {
+    background-color: #f0aa00;
+    font-weight: bold;
+    padding: 15px 40px;
+}
+
+.custom-quick-contact-form input[type=submit] {
+    text-align: center;
+}
+
+
+/** Default Icon Box **/
+
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {
+    margin-top: 0;
+}
+
+
+/** Custom Hover Icon Box **/
+
+.custom-hover-icon-box .elementor-widget:not(:last-child) {
+    margin-bottom: 0;
+}
+
+.custom-hover-icon-box .elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title,
+.custom-hover-icon-box .elementor-widget-icon-box .elementor-icon-box-icon {
+    -webkit-transition: -webkit-transform 0.9s;
+    -moz-transition: -moz-transform 0.9s;
+    transition: transform 0.9s;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+    -moz-transform: matrix(1, 0, 0, 1, 0, 0);
+    -ms-transform: matrix(1, 0, 0, 1, 0, 0);
+    -o-transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.custom-hover-icon-box .elementor-widget-icon-box:hover .elementor-icon-box-content .elementor-icon-box-title,
+.custom-hover-icon-box .elementor-widget-icon-box:hover .elementor-icon-box-icon {
+    transform: matrix(1, 0, 0, 1, 0, -10.5);
+    -webkit-transform: matrix(1, 0, 0, 1, 0, -10.5);
+    -moz-transform: matrix(1, 0, 0, 1, 0, -10.5);
+    -ms-transform: matrix(1, 0, 0, 1, 0, -10.5);
+    -o-transform: matrix(1, 0, 0, 1, 0, -10.5);
+}
+
+.custom-hover-icon-box .elementor-widget-icon-box:hover .elementor-icon-box-content .elementor-icon-box-title {
+    color: #000000;
+}
+
+.custom-hover-icon-box .elementor-icon-box-content .elementor-icon-box-description {
+    opacity: 0;
+    margin-top: -10px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    -webkit-transition: -webkit-transform 0.4s, opacity 0.1s 0.3s, all 300ms linear 0s;
+    -moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s, all 300ms linear 0s;
+    transition: transform 0.4s, opacity 0.1s 0.3s, all 300ms linear 0s;
+    transform: matrix(1, 0, 0, 1, 0, 14.184);
+    -webkit-transform: matrix(1, 0, 0, 1, 0, 14.184);
+    -moz-transform: matrix(1, 0, 0, 1, 0, 14.184);
+    -ms-transform: matrix(1, 0, 0, 1, 0, 14.184);
+    -o-transform: matrix(1, 0, 0, 1, 0, 14.184);
+}
+
+.custom-hover-icon-box .elementor-widget-icon-box:hover .elementor-icon-box-content .elementor-icon-box-description {
+    opacity: 1;
+    margin-top: -20px;
+}
+
+.custom-hover-icon-box .elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a,
+.custom-icon-box-with-gd.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a,
+.custom-read-more a {
+    position: relative;
+    padding: 0 25px 0 0;
+}
+
+.custom-hover-icon-box .elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a:after,
+.custom-icon-box-with-gd.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a:after,
+.custom-read-more a:after {
+    content: "";
+    -webkit-mask-image: url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/images/sep-mask-img.png);
+    mask-image: url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/images/sep-mask-img.png);
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: left center;
+    position: absolute;
+    left: 0;
+    bottom: -15px;
+    mask-position: left center;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    transition: all 300ms linear;
+    -webkit-transition: all 300ms linear;
+    -ms-transition: all 300ms linear;
+}
+
+.custom-icon-box-with-gd.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a:after {
+    width: 0;
+}
+
+.custom-icon-box-with-gd.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a:hover:after {
+    width: 100%;
+}
+
+.custom-icon-box-with-gd.custom-blue-button.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a {
+    color: #64c8ff;
+}
+
+.custom-icon-box-with-gd.custom-blue-button.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a:after {
+    background-color: #64c8ff;
+}
+
+.custom-icon-box-with-gd.custom-purple-button.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a {
+    color: #8700ff;
+}
+
+.custom-icon-box-with-gd.custom-purple-button.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a:after {
+    background-color: #8700ff;
+}
+
+.custom-icon-box-with-gd.custom-yellow-button.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a {
+    color: #f0aa00;
+}
+
+.custom-icon-box-with-gd.custom-yellow-button.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a:after {
+    background-color: #f0aa00;
+}
+
+div.elementor-widget-wrap .custom-icon-box-with-gd.elementor-widget-icon-box .elementor-widget-container {
+    background-color: #ffffff;
+    position: relative;
+    top: 0;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    -ms-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+
+div.elementor-widget-wrap .custom-icon-box-with-gd.elementor-widget-icon-box:hover .elementor-widget-container {
+    top: -20px;
+}
+
+.dark-bg-hover-title .elementor-widget-icon-box:hover .elementor-icon-box-content .elementor-icon-box-title {
+    color: #000000;
+}
+
+.custom-read-more a {
+    color: #5d58ef;
+    display: inline-block;
+}
+
+.custom-read-more a:after {
+    background-color: #5d58ef;
+}
+
+div.custom-icon-box-with-gd.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a {
+    display: inline-block;
+    font-weight: bold;
+    margin: 30px 0 0;
+}
+
+.custom-read-more a:hover {
+    color: #000000;
+}
+
+.custom-read-more a:hover:after {
+    background-color: #000000;
+}
+
+#primary.content-full-width .custom-links-remove .tpl-blog-holder .dt-sc-one-half.dt-sc-boxed-style.dt-sc-post-entry .blog-entry>div.entry-meta-group div.entry-likes-views {
+    display: none;
+}
+
+
+/** Number Counter **/
+
+.rhombus-icon-shape .elementor-icon {
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+}
+
+
+/** Any Carousel **/
+
+.dt-sc-any-carousel-wrapper .swiper-pagination-bullet {
+    border: 1px solid;
+    height: 12px;
+    opacity: 1;
+    width: 12px;
+}
+
+.dt-sc-dark-bg-bullet .swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+.dt-sc-any-carousel-wrapper .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.dt-sc-dark-bg-bullet .swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.custom-dark-hover-icon-box .elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title,
+.custom-dark-hover-icon-box .elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description {
+    transition: all .3s linear;
+}
+
+.custom-dark-hover-icon-box .elementor-widget-icon-box:hover .elementor-icon-box-content .elementor-icon-box-title,
+.custom-dark-hover-icon-box .elementor-widget-icon-box:hover .elementor-icon-box-content .elementor-icon-box-description {
+    color: #ffffff;
+}
+
+
+/** Custom Enroll Steps **/
+
+.custom-enroll-step-I:before,
+.custom-enroll-step-III:before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    border-width: 2px 2px 0 2px;
+    left: 50%;
+    top: -60px;
+    width: 110%;
+    border-style: dashed;
+    border-radius: 10px 10px 0 0;
+    border-color: #64c8ff;
+    z-index: -1;
+}
+
+.custom-enroll-step-I.elementor-widget-icon-box.elementor-widget .elementor-widget-container,
+.custom-enroll-step-II.elementor-widget-icon-box.elementor-widget .elementor-widget-container,
+.custom-enroll-step-III.elementor-widget-icon-box.elementor-widget .elementor-widget-container,
+.custom-enroll-step-IV.elementor-widget-icon-box.elementor-widget .elementor-widget-container {
+    background-color: #ffffff;
+}
+
+.custom-enroll-step-II:before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    border-width: 0px 2px 2px 2px;
+    left: 50%;
+    bottom: -90px;
+    width: 110%;
+    border-style: dashed;
+    border-radius: 0px 0px 10px 10px;
+    border-color: #f0aa00;
+    z-index: -1;
+}
+
+.custom-enroll-step-III:before {
+    border-color: #b496fa;
+}
+
+.custom-enroll-step-I:after,
+.custom-enroll-step-III:after {
+    content: "";
+    position: absolute;
+    border-left: 20px solid #64c8ff;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    top: -71px;
+    right: auto;
+    left: 100%;
+    margin: auto;
+}
+
+.custom-enroll-step-II:after {
+    content: "";
+    position: absolute;
+    border-left: 20px solid #f0aa00;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    bottom: -100px;
+    right: auto;
+    left: 100%;
+    margin: auto;
+}
+
+.custom-enroll-step-III:after {
+    border-left-color: #b496fa;
+}
+
+.elementor-view-stacked.elementor-shape-circle.elementor-widget-icon-box .elementor-widget-container .elementor-icon-box-icon {
+    top: 0;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    -ms-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+
+.elementor-view-stacked.elementor-shape-circle.elementor-widget-icon-box:hover .elementor-widget-container .elementor-icon-box-icon {
+    position: relative;
+    top: -5px;
+}
+
+
+/** Custom Accordion **/
+
+.custom-accordion.elementor-widget-accordion .elementor-accordion .elementor-accordion-item .elementor-tab-content.elementor-active {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.custom-accordion.elementor-widget-accordion .elementor-accordion .elementor-accordion-item .elementor-tab-title {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.custom-accordion.elementor-widget-accordion .elementor-accordion .elementor-tab-title .elementor-accordion-icon {
+    font-size: 16px;
+}
+
+
+/** Cutom Testimonial **/
+
+.custom-testimonial .elementor-widget-icon .elementor-icon .fa-quote-right:before {
+    content: ",,";
+    font-size: 80px;
+    line-height: 0;
+    top: -22px;
+    letter-spacing: -5px;
+}
+
+.dt-sc-dark-bg-bullet.custom-testimonial:hover .elementor-widget-icon .elementor-icon {
+    background-color: #ffffff;
+}
+
+.custom-testimonial:hover .elementor-widget-icon .elementor-icon i {
+    color: #ffffff;
+}
+
+
+/** Footer **/
+
+#footer .elementor-widget .recent-posts-widget li .entry-meta p:last-child {
+    display: none;
+}
+
+#footer a span {
+    transition: all 0.3s linear;
+}
+
+#footer a:hover span {
+    color: #fff565;
+}
+
+.rounded-corner-map .jet-map {
+    border-radius: 10px;
+}
+
+.home-blog-section.elementor-section.elementor-section-boxed .elementor-container {
+    max-width: 1240px;
+}
+
+.responsive-map .gm-style .gm-style-iw-c {
+    background-color: #000000;
+    border-radius: 0;
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 26px;
+    padding: 20px 20px !important;
+    top: -15px;
+    border-radius: 5px;
+}
+
+.responsive-map .gm-style .gm-style-iw-d::-webkit-scrollbar-track,
+.responsive-map .gm-style .gm-style-iw-d::-webkit-scrollbar-track-piece {
+    background-color: #000000;
+}
+
+.responsive-map .gm-style .gm-style-iw-d {
+    overflow: auto !important;
+}
+
+.responsive-map .gm-style .gm-style-iw-c button.gm-ui-hover-effect {
+    opacity: 1;
+    top: 0px !important;
+    right: 0px !important;
+}
+
+.responsive-map .gm-style .gm-style-iw-c button.gm-ui-hover-effect img {
+    filter: invert(100%);
+    -webki-filter: invert(100%);
+    -ms-filter: invert(100%);
+}
+
+.responsive-map .gm-style .gm-style-iw-t:after {
+    background: rgba(255, 255, 255, 0);
+    box-shadow: none;
+    border-top: 20px solid;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    transform: translate(-50%, 0%);
+    -webkit-transform: translate(-50%, 0%);
+    -ms-transform: translate(-50%, 0%);
+    -moz-transform: translate(-50%, 0%);
+    top: -15px;
+}
+
+.responsive-map .poi-info-window div {
+    color: #FFF;
+}
+
+.responsive-map .gm-style .gm-style-iw-d .gmap_marker p {
+    margin-bottom: 0;
+}
+
+.responsive-map .poi-info-window a {
+    background-color: transparent;
+}
+
+.elementor-section.elementor-section-stretched.team-tabs-section {
+    width: 100% !important;
+    margin: 0 auto !important;
+    left: auto !important;
+    right: auto !important;
+}
+
+/* .elementor-column:not(.elementor-col-100) .elementor-widget-heading h2.elementor-heading-title {
+    font-size: 36px;
+} */
+
+.elementor-widget-dt-anycarousel .elementor-widget.elementor-widget-image .elementor-widget-container {
+    margin: 0 15px;
+}
+
+.cnt-details .elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {
+    margin-top: -5px;
+}
+
+.custom-enroll-step-I.elementor-widget-icon-box.elementor-widget .elementor-widget-container,
+.custom-enroll-step-II.elementor-widget-icon-box.elementor-widget .elementor-widget-container,
+.custom-enroll-step-III.elementor-widget-icon-box.elementor-widget .elementor-widget-container,
+.custom-enroll-step-IV.elementor-widget-icon-box.elementor-widget .elementor-widget-container {
+    background-color: #fff;
+}
+
+.dark-bg-hover-title .elementor-widget-icon-box:hover .elementor-icon-box-content .elementor-icon-box-title,
+.custom-hover-icon-box .elementor-widget-icon-box:hover .elementor-icon-box-content .elementor-icon-box-title {
+    color: #000;
+}
+
+.rounded-icon-box.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {
+    margin-bottom: 0;
+}
+
+.dt-sc-special-testimonial-container.alignleft {
+    margin-right: 0;
+}
+
+.home-blog-section .dt-sc-boxed-style.dt-sc-post-entry .blog-entry {
+    background-color: #FFF;
+}
+
+.home-ico-carousel .elementor-section>.elementor-column-gap-extended>.elementor-row,
+.abt-ico-carousel .elementor-section>.elementor-column-gap-extended>.elementor-row {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home-ico-carousel .dt-sc-any-carousel-wrapper {
+    margin: 0 -15px;
+}
+
+#header .elementor-icon-list-item .fas.fa-phone {
+    transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+}
+
+.custom-enroll-step-I.elementor-widget-icon-box.elementor-widget .elementor-widget-container,
+.custom-enroll-step-II.elementor-widget-icon-box.elementor-widget .elementor-widget-container,
+.custom-enroll-step-III.elementor-widget-icon-box.elementor-widget .elementor-widget-container,
+.custom-enroll-step-IV.elementor-widget-icon-box.elementor-widget .elementor-widget-container {
+    background-color: #fff;
+}
+
+.dark-bg-hover-title .elementor-widget-icon-box:hover .elementor-icon-box-content .elementor-icon-box-title,
+.custom-hover-icon-box .elementor-widget-icon-box:hover .elementor-icon-box-content .elementor-icon-box-title {
+    color: #000;
+}
+
+.comment-form,
+.woocommerce .woocommerce-cart-form,
+.woocommerce-page .woocommerce-cart-form,
+.page-template-tpl-sidenavigation .wpcf7-form {
+    box-shadow: 10px 0 60px 0 rgba(0, 0, 0, 0.08);
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #FFF;
+    display: inline-block;
+    width: 100%;
+}
+
+.woocommerce-form {
+    box-shadow: 10px 0 60px 0 rgba(0, 0, 0, 0.08);
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #FFF;
+    border-width: 1px;
+}
+
+.type1.tribe_events ul.event-details li dd,
+.type1.tribe_events .event-organize li dd,
+.type1.tribe_events .event-venue li dd {
+    margin: 0;
+}
+
+.woocommerce .select2-container--default .select2-selection--single {
+    border-radius: 50px;
+}
+
+
+/* Contacr form - error message */
+
+.wpcf7 form .wpcf7-response-output {
+    float: left;
+    width: 100%;
+    margin: 10px 0 0;
+}
+
+form.wpcf7-form .wpcf7-response-output {
+    position: relative;
+    clear: both;
+    float: unset;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 15px 15px 15px 45px;
+    width: 99%;
+    box-sizing: border-box;
+}
+
+form.wpcf7-form.invalid .wpcf7-response-output {
+    background-color: #ffcccc;
+    border: 1px solid #ff9999;
+    color: #d01313;
+    position: relative;
+    font-size: 14px;
+}
+
+form.wpcf7-form.sent .wpcf7-response-output {
+    background-color: #eafac0;
+    border: 1px solid #b1cf67;
+    color: #7ba411;
+}
+
+form.wpcf7-form .wpcf7-response-output:before {
+    top: 15px;
+    left: 18px;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 20px;
+    position: absolute;
+}
+
+form.wpcf7-form.invalid .wpcf7-response-output:before {
+    content: "\f057";
+}
+
+form.wpcf7-form.sent .wpcf7-response-output:before {
+    content: "\f058";
+}
+
+.dt-sc-special-testimonial-content .dt-sc-hr-invisible-small {
+    margin-top: 5px !important;
+}
+
+
+/*--------------------------------------------------------------
+	2.0 - Browser Fix
+	--------------------------------------------------------------*/
+
+
+/* IE9 and above override */
+
+@media screen and (min-width:0\0) {}
+
+
+/* IE9 only override */
+
+
+/*--------------------------------------------------------------
+	3.0 - DT Responsive
+	--------------------------------------------------------------*/
+
+
+/* Common Styles for the devices below 767px width */
+
+@media only screen and (max-width: 1450px) {
+    .rs-custom-bg .jet-parallax-section__image {
+        background-color: #f6f6f6;
+    }
+    .rs-custom-bg .jet-parallax-section__image
+    {
+        background-color: inherit;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .dt-sc-anytitle .anytitle-heading {
+        font-size: 36px;
+    }
+    .dt-sc-special-testimonial-content .dt-sc-hr-invisible-small {
+        margin-top: 5px;
+    }
+    .custom-testimonial-color .dt-sc-special-testimonial-content>h2 {
+        font-size: 36px;
+    }
+    .dark-bg-hover-title .elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {
+        font-size: 24px !important;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .dt-sc-special-testimonial-container .column.dt-sc-one-half {
+        width: 47%;
+    }
+    .dt-sc-special-testimonial-container .column.first.dt-sc-one-half {
+        width: 51%;
+    }
+    .dt-sc-special-testimonial-container .dt-sc-testimonial-images {
+        margin: 0 -15px 0 0;
+    }
+}
+
+
+/* Common Styles for the devices below 767px width */
+
+@media only screen and (max-width: 1200px) {
+    .elementor-widget-wrap>.elementor-element.elementor-absolute.custom-rs-default-position {
+        position: static;
+        margin: 0 0 20px;
+    }
+    .elementor-widget-wrap .rs-custom-default-margin.elementor-widget>.elementor-widget-container {
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    .elementor-section>.elementor-column-gap-default>.elementor-row {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (max-width: 1440px) and (min-width: 1200px) {
+    /*.custom-links-remove .dt-sc-post-entry.entry-grid-layout .blog-entry > div.entry-meta-group { padding: 18px 25px 10px; }
+		.dt-sc-post-entry:not(.entry-cover-layout) .blog-entry > div:not(.entry-thumb) { padding: 0 30px; }*/
+    .rs-custom-footer .recent-posts-widget li .entry-title h4 {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .elementor-element.team-tabs-section .elementor-element .jet-team-member__inner .jet-team-member__image {
+        margin-bottom: 25px;
+    }
+    .dt-sc-special-testimonial-container .column.first.dt-sc-one-half .dt-sc-hr-invisible-small {
+        margin: 2px 0;
+    }
+    .abt-faq .elementor-accordion .elementor-tab-title {
+        padding: 14px 0px 13px 0px !important;
+    }
+}
+
+@media only screen and (max-width: 1470px) {
+    .waves-img.elementor-widget-image .elementor-image img {
+        display: none;
+    }
+}
+
+
+/* Note: Design for a width of 960px */
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .rs-custom-bg .elementor-column.elementor-col-50 {
+        width: 100%;
+    }
+    .dark-bg-hover-title .elementor-widget-icon-box .elementor-icon-box-icon .elementor-icon {
+        font-size: 40px;
+        padding: 27px;
+    }
+    .dark-bg-hover-title .elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {
+        font-size: 19px;
+    }
+    .custom-links-remove .dt-sc-boxed-style.dt-sc-post-entry .blog-entry>div.entry-meta-group div.entry-date {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+    .custom-links-remove .dt-sc-post-entry .blog-entry .entry-title h4 {
+        font-size: 22px;
+    }
+    .custom-links-remove .dt-sc-post-entry:not(.entry-cover-layout) .blog-entry>div:not(.entry-thumb) {
+        padding: 0 20px;
+    }
+    .custom-icon-box-with-gd.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {
+        font-size: 20px;
+    }
+    .custom-hover-icon-box .elementor-icon-box-wrapper .elementor-icon-box-icon .elementor-icon {
+        font-size: 90px;
+    }
+    .custom-hover-icon-box .elementor-icon-box-content .elementor-icon-box-title {
+        font-size: 21px;
+    }
+    .rhombus-icon-shape .elementor-widget-counter .elementor-counter .elementor-counter-title {
+        font-size: 21px;
+    }
+    .rhombus-icon-shape .elementor-widget-counter .elementor-counter .elementor-counter-number-wrapper {
+        font-size: 35px;
+    }
+    .rhombus-icon-shape .elementor-widget-icon .elementor-icon-wrapper .elementor-icon {
+        font-size: 55px;
+    }
+    .rs-custom-team-member .elementor-widget-jet-team-member .jet-team-member .jet-team-member__name .jet-team-member__name-first {
+        font-size: 21px;
+    }
+    .rs-custom-icon-box .elementor-column-gap-wider>.elementor-row>.elementor-column>.elementor-element-populated {
+        padding: 10px;
+    }
+    .custom-dark-hover-icon-box.elementor-section.elementor-section-boxed .elementor-container>.elementor-row {
+        display: block;
+    }
+    .custom-dark-hover-icon-box .elementor-column.elementor-col-20.elementor-inner-column {
+        display: inline-block;
+        width: 32.5%;
+    }
+    .custom-dark-hover-icon-box .elementor-column.elementor-col-20.elementor-inner-column:first-child,
+    .custom-dark-hover-icon-box .elementor-column.elementor-col-20.elementor-inner-column:last-child {
+        width: 0;
+    }
+    .rs-custom-footer .recent-posts-widget .entry-content-wrapper {
+        clear: both;
+        display: block;
+    }
+    .rs-custom-footer .recent-posts-widget li .entry-title h4 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .home-intro-carousel {
+        padding: 0 20%;
+    }
+    .rs-custom-bg .elementor-column.elementor-col-50 {
+        width: 50%;
+    }
+    .dtportfolio-item.dtportfolio-hover-icons-only .dtportfolio-image-overlay h2 {
+        font-size: 16px;
+    }
+}
+
+
+/* Note: Design for a width of 768px */
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .rs-custom-bg .jet-parallax-section__image {
+        background-color: #f6f6f6;
+    }
+    .custom-hover-icon-box .elementor-icon-box-wrapper .elementor-icon-box-icon .elementor-icon {
+        font-size: 80px;
+    }
+    .custom-hover-icon-box .elementor-icon-box-content .elementor-icon-box-title {
+        font-size: 20px;
+    }
+    .rhombus-icon-shape .elementor-widget-counter .elementor-counter .elementor-counter-title {
+        font-size: 16px;
+    }
+    .rhombus-icon-shape .elementor-widget-counter .elementor-counter .elementor-counter-number-wrapper {
+        font-size: 35px;
+    }
+    .rhombus-icon-shape .elementor-widget-icon .elementor-icon-wrapper .elementor-icon {
+        font-size: 55px;
+    }
+    .rs-custom-icon-box .elementor-widget-icon-box .elementor-icon-box-icon .elementor-icon {
+        font-size: 40px;
+        padding: 25px;
+    }
+    .rs-custom-icon-box .elementor-icon-box-wrapper .elementor-icon-box-title {
+        font-size: 22px;
+    }
+    .woocommerce .elementor-section.elementor-section-boxed .elementor-container {
+        max-width: 710px;
+    }
+}
+
+@media only screen and (max-width: 768px) {}
+
+
+/*----*****---- << Mobile (Landscape) >> ----*****----*/
+
+
+/* Common Styles for the devices below 767px width */
+
+@media only screen and (max-width: 767px) {
+    .rs-custom-bg .jet-parallax-section__image {
+        background-color: #f6f6f6;
+    }
+    .custom-contact-form .wpcf7-form-control-wrap {
+        margin: 0 0 15px 0;
+    }
+    .custom-hover-icon-box .elementor-icon-box-wrapper .elementor-icon-box-icon .elementor-icon {
+        font-size: 80px;
+    }
+    .custom-hover-icon-box .elementor-icon-box-content .elementor-icon-box-title {
+        font-size: 20px;
+    }
+    .rhombus-icon-shape .elementor-widget-counter .elementor-counter .elementor-counter-title {
+        font-size: 21px;
+    }
+    .rhombus-icon-shape .elementor-widget-counter .elementor-counter .elementor-counter-number-wrapper {
+        font-size: 35px;
+    }
+    .rhombus-icon-shape .elementor-widget-icon .elementor-icon-wrapper .elementor-icon {
+        font-size: 55px;
+    }
+    .rhombus-icon-shape .elementor-widget-wrap .elementor-widget-icon .elementor-widget-container {
+        margin: 0;
+    }
+    .custom-contact-form .column.dt-sc-one-half {
+        margin: 0;
+        width: 100%;
+    }
+    .no-absolute-image {
+        position: static !important;
+        width: 100% !important;
+        max-width: none !important;
+        margin-bottom: 30px !important;
+    }
+    .custom-hover-icon-box .elementor-widget-container {
+        border-radius: 0px !important;
+    }
+    .top-bar-section {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 767px) and (min-width: 480px) {}
+
+
+/* Common Styles for the devices below 479px width */
+
+@media only screen and (max-width: 479px) {
+    .custom-contact-form input,
+    .custom-contact-form .selection-box select,
+    .custom-contact-form textarea {
+        font-size: 13px;
+    }
+}
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+
+@media only screen and (max-width: 319px) {}
+
+
+/*** ------------ Worked from 25 November 2019 ------------------ ***/
+
+.woocommerce ul.products.default-shop li.product .product-details>.product-title h5 a:hover {
+    color: #FFF;
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+    .elementor-widget-dt-tabs .dt-sc-tabs-horizontal-frame-container.type2 ul.dt-sc-tabs-horizontal-frame li>a {
+        padding: 15px 18px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .custom-enroll-step-I:before,
+    .custom-enroll-step-III:before,
+    .custom-enroll-step-I:after,
+    .custom-enroll-step-III:after,
+    .custom-enroll-step-II:before,
+    .custom-enroll-step-II:after {
+        display: none;
+    }
+    .elementor-widget-dt-tabs .dt-sc-tabs-horizontal-frame-container.type2 ul.dt-sc-tabs-horizontal-frame li {
+        margin: 0;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+        width: 100%;
+        text-align: center;
+        float: left;
+    }
+    .elementor-widget-dt-tabs .dt-sc-tabs-horizontal-frame-container.type2 ul.dt-sc-tabs-horizontal-frame li>a {
+        width: 100%;
+        padding: 18px 20px;
+    }
+}
+
+@media only screen and (max-width: 479px) and (min-width: 320px) {
+    .newsletter-form .jet-subscribe-form__submit.elementor-button {
+        text-align: center;
+        float: none;
+        display: inline-block;
+        margin: 20px auto 0;
+    }
+}
