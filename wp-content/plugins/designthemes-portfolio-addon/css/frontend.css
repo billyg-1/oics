@@ -221,22 +221,22 @@
 	.dtportfolio-item:hover .dtportfolio-image-overlay-details, .dtportfolio-item.dtportfolio-fullpage-default.active .dtportfolio-image-overlay-details, .dtportfolio-item.dtportfolio-fullpage-splitted-section.active .dtportfolio-image-overlay-details { bottom:30px; }
 	
 	.dtportfolio-item:hover .dtportfolio-image-overlay { opacity:1; }
-	.dtportfolio-item.cursor-hover-style1:hover .dtportfolio-image-overlay { cursor:url(../images/plus_icon.png), auto; }
-	.dtportfolio-item.cursor-hover-style1:hover .dtportfolio-image-overlay.hover-content-color-dark { cursor:url(../images/plus_icon_dark.png), auto; }
-	.dtportfolio-item.cursor-hover-style2:hover .dtportfolio-image-overlay { cursor:url(../images/hover-icon.png), auto; }
-	.dtportfolio-item.cursor-hover-style2:hover .dtportfolio-image-overlay.hover-content-color-dark { cursor:url(../images/hover-icon-dark.png), auto; }
+	.dtportfolio-item.cursor-hover-style1:hover .dtportfolio-image-overlay { cursor:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/plus_icon.png), auto; }
+	.dtportfolio-item.cursor-hover-style1:hover .dtportfolio-image-overlay.hover-content-color-dark { cursor:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/plus_icon_dark.png), auto; }
+	.dtportfolio-item.cursor-hover-style2:hover .dtportfolio-image-overlay { cursor:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/hover-icon.png), auto; }
+	.dtportfolio-item.cursor-hover-style2:hover .dtportfolio-image-overlay.hover-content-color-dark { cursor:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/hover-icon-dark.png), auto; }
 	
-	.dtportfolio-item.cursor-hover-style3:hover .dtportfolio-image-overlay { cursor:url(../images/eye_icon.png), auto; }
-	.dtportfolio-item.cursor-hover-style3:hover .dtportfolio-image-overlay.hover-content-color-dark { cursor:url(../images/eye_icon_dark.png), auto; }
+	.dtportfolio-item.cursor-hover-style3:hover .dtportfolio-image-overlay { cursor:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/eye_icon.png), auto; }
+	.dtportfolio-item.cursor-hover-style3:hover .dtportfolio-image-overlay.hover-content-color-dark { cursor:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/eye_icon_dark.png), auto; }
 	
-	.dtportfolio-item.cursor-hover-style4:hover .dtportfolio-image-overlay { cursor:url(../images/search_icon.png), auto; }
-	.dtportfolio-item.cursor-hover-style4:hover .dtportfolio-image-overlay.hover-content-color-dark { cursor:url(../images/search_icon_dark.png), auto; }
+	.dtportfolio-item.cursor-hover-style4:hover .dtportfolio-image-overlay { cursor:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/search_icon.png), auto; }
+	.dtportfolio-item.cursor-hover-style4:hover .dtportfolio-image-overlay.hover-content-color-dark { cursor:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/search_icon_dark.png), auto; }
 	
-	.dtportfolio-item.cursor-hover-style5:hover .dtportfolio-image-overlay { cursor:url(../images/expand_icon.png), auto; }
-	.dtportfolio-item.cursor-hover-style5:hover .dtportfolio-image-overlay.hover-content-color-dark { cursor:url(../images/expand_icon_dark.png), auto; }
+	.dtportfolio-item.cursor-hover-style5:hover .dtportfolio-image-overlay { cursor:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/expand_icon.png), auto; }
+	.dtportfolio-item.cursor-hover-style5:hover .dtportfolio-image-overlay.hover-content-color-dark { cursor:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/expand_icon_dark.png), auto; }
 	
-	.dtportfolio-item.cursor-hover-style6:hover .dtportfolio-image-overlay { cursor:url(../images/border_icon.png), auto; }
-	.dtportfolio-item.cursor-hover-style6:hover .dtportfolio-image-overlay.hover-content-color-dark { cursor:url(../images/border_icon_dark.png), auto; }
+	.dtportfolio-item.cursor-hover-style6:hover .dtportfolio-image-overlay { cursor:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/border_icon.png), auto; }
+	.dtportfolio-item.cursor-hover-style6:hover .dtportfolio-image-overlay.hover-content-color-dark { cursor:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/border_icon_dark.png), auto; }
 	
 	.isotope-hidden, .hidden { display:none !important; }
 
@@ -306,7 +306,7 @@
 	.dtportfolio-item.dtportfolio-hover-title-overlay .dtportfolio-image-overlay-details { border:0; padding:0; }
 	.dtportfolio-item.dtportfolio-hover-title-overlay .dtportfolio-image-overlay h2 { font-size:19px; }
 	
-	.dtportfolio-item.dtportfolio-hover-title-overlay .dtportfolio-image-overlay .links a:last-child { background:url(../images/plus_icon.png) no-repeat; width:50px; height:50px; content:""; position:absolute; left:0; right:0; top:0; bottom:0; margin:auto; border:0; border-radius: 0; } 
+	.dtportfolio-item.dtportfolio-hover-title-overlay .dtportfolio-image-overlay .links a:last-child { background:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/plus_icon.png) no-repeat; width:50px; height:50px; content:""; position:absolute; left:0; right:0; top:0; bottom:0; margin:auto; border:0; border-radius: 0; } 
 	
 	
 	@media screen and (-webkit-min-device-pixel-ratio:0) { 
@@ -460,8 +460,8 @@
 	.dtportfolio-item.dtportfolio-hover-art .dtportfolio-image-overlay { border-radius:0; left:0; top:0; width:auto; height:auto; right:0; bottom:0; background-color: rgba(0, 0, 0, 0.85); transition: opacity 0.4s ease; -webkit-transition: opacity 0.4s ease; }
 	.dtportfolio-item.dtportfolio-hover-art figure img { transition: filter 0.4s, transform 0.4s; -o-transition: -o-filter 0.4s, -o-transform 0.4s; -ms-transition: -ms-filter 0.4s, -ms-transform 0.4s; -moz-transition: -moz-filter 0.4s, -moz-transform 0.4s; -webkit-transition: -webkit-filter 0.4s, -webkit-transform 0.4s; }
 	.dtportfolio-item.dtportfolio-hover-art:hover figure img, .dtportfolio-item.dtportfolio-hover-art.hover-state figure img { -webkit-transform: scale(1.3); -moz-transform: scale(1.3); -ms-transform: scale(1.3); -o-transform: scale(1.3); transform: scale(1.3); filter: gray; -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); -ms-filter: grayscale(100%); -o-filter: grayscale(100%); -webkit-transform-style: preserve-3d; -moz-transform-style: preserve-3d; -ms-transform-style: preserve-3d; transform-style: preserve-3d;  }	
-	.dtportfolio-item.dtportfolio-hover-art .dtportfolio-image-overlay .links a:first-child { background:url(../images/plus_icon.png) no-repeat; width:50px; height:50px; content:""; border:0; border-radius: 0; }
-	.dtportfolio-item.dtportfolio-hover-art .dtportfolio-image-overlay.hover-content-color-dark .links a:first-child { background:url(../images/plus_icon_dark.png) no-repeat; }
+	.dtportfolio-item.dtportfolio-hover-art .dtportfolio-image-overlay .links a:first-child { background:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/plus_icon.png) no-repeat; width:50px; height:50px; content:""; border:0; border-radius: 0; }
+	.dtportfolio-item.dtportfolio-hover-art .dtportfolio-image-overlay.hover-content-color-dark .links a:first-child { background:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/plus_icon_dark.png) no-repeat; }
 	.dtportfolio-item.dtportfolio-hover-art .dtportfolio-image-overlay .links a:first-child > span, .dtportfolio-item.dtportfolio-hover-art .dtportfolio-image-overlay .links a:last-child { display:none; }
 	.dtportfolio-item.dtportfolio-hover-art:hover .dtportfolio-image-overlay .links a:first-child { transform: rotate(180deg); -webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); -ms-transform: rotate(180deg); }
 	
@@ -740,16 +740,16 @@
 	.dtportfolio-swiper-container .dtportfolio-swiper-arrow-click { font-size: 30px; line-height: 40px; font-weight: 400; position: absolute; top: 50%; -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%); z-index: 20; opacity: 0; visibility: hidden; color: #fff; width: 32px; height: 32px; transition: opacity 0.3s ease, visibility 0.3s ease; }
 	.dtportfolio-swiper-container .dtportfolio-swiper-arrow-click.left { left: 50px; }
 	.dtportfolio-swiper-container .dtportfolio-swiper-arrow-click.right { right: 50px; }
-	.dtportfolio-swiper-container .dtportfolio-swiper-arrow-click.right .dtportfolio-swiper-arrow { left: auto; right: 60px; background:url(../images/right-arrow.png) no-repeat center; }
-	.dtportfolio-swiper-container .dtportfolio-swiper-arrow-click.left .dtportfolio-swiper-arrow { background:url(../images/left-arrow.png) no-repeat center; }
+	.dtportfolio-swiper-container .dtportfolio-swiper-arrow-click.right .dtportfolio-swiper-arrow { left: auto; right: 60px; background:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/right-arrow.png) no-repeat center; }
+	.dtportfolio-swiper-container .dtportfolio-swiper-arrow-click.left .dtportfolio-swiper-arrow { background:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/left-arrow.png) no-repeat center; }
 	.dtportfolio-swiper-container .dtportfolio-swiper-arrow-click.right .dtportfolio-swiper-number { right: 0; left: auto; }
 	.dtportfolio-swiper-container .dtportfolio-swiper-arrow-click.right.disabled, .dtportfolio-swiper-container .swiper-arrow-click.left.disabled { opacity: 0; }
 	.dtportfolio-swiper-container .dtportfolio-swiper-arrow-click .dtportfolio-swiper-arrow { width: 42px; height: 22px; position: absolute; left: 60px; top: 50%; font-family: Font Awesome\ 5 Free; font-style:normal; font-weight:900; }
-	.dtportfolio-swiper-container .dtportfolio-swiper-arrow-click.middle .dtportfolio-swiper-arrow { background:url(../images/middle-arrow.png) no-repeat center; width:60px; }
+	.dtportfolio-swiper-container .dtportfolio-swiper-arrow-click.middle .dtportfolio-swiper-arrow { background:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/middle-arrow.png) no-repeat center; width:60px; }
 
-	.dtportfolio-swiper-container .dark .dtportfolio-swiper-arrow-click.right .dtportfolio-swiper-arrow { background:url(../images/right-arrow-dark.png) no-repeat center; }
-	.dtportfolio-swiper-container .dark .dtportfolio-swiper-arrow-click.left .dtportfolio-swiper-arrow { background:url(../images/left-arrow-dark.png) no-repeat center; }
-	.dtportfolio-swiper-container .dark .dtportfolio-swiper-arrow-click.middle .dtportfolio-swiper-arrow { background:url(../images/middle-arrow-dark.png) no-repeat center; }
+	.dtportfolio-swiper-container .dark .dtportfolio-swiper-arrow-click.right .dtportfolio-swiper-arrow { background:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/right-arrow-dark.png) no-repeat center; }
+	.dtportfolio-swiper-container .dark .dtportfolio-swiper-arrow-click.left .dtportfolio-swiper-arrow { background:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/left-arrow-dark.png) no-repeat center; }
+	.dtportfolio-swiper-container .dark .dtportfolio-swiper-arrow-click.middle .dtportfolio-swiper-arrow { background:url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/middle-arrow-dark.png) no-repeat center; }
 
 	.dtportfolio-swiper-pagination-holder .dtportfolio-swiper-progress-pagination { position:absolute; width:12%; left:0; right:0; margin:auto; bottom:30px; background: rgba(255, 255, 255, 0.22);  z-index:9; height:5px; }
 	.dtportfolio-swiper-pagination-holder .swiper-pagination-progressbar-fill { background: rgba(255, 255, 255, 0.7); }
@@ -1043,7 +1043,7 @@
 	.dtportfolio-infinite-portfolio-load-more:hover { background-color: #767676; color: #fff; border-color: #767676; }
 	.dtportfolio-infinite-portfolio-load-more:hover span { color: #fff; }
  
-    .dtportfolio-infinite-portfolio-container .dtportfolio-item:before { background-image: url(../images/loading_icon.gif); background-position: center; content: ""; display: block; position: absolute; top: 50%; transform: translateY(-50%); right:0; left: 0; margin: 0 auto; width: 60px; height: 60px; z-index: -1; }
+    .dtportfolio-infinite-portfolio-container .dtportfolio-item:before { background-image: url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/images/loading_icon.gif); background-position: center; content: ""; display: block; position: absolute; top: 50%; transform: translateY(-50%); right:0; left: 0; margin: 0 auto; width: 60px; height: 60px; z-index: -1; }
    
     .message { transform: scale(1); -moz-transform: scale(1); -webkit-transform: scale(1); -ms-transform: scale(1); }
     .message.hidden { display: block !important; transform: scale(0); -moz-transform: scale(0); -webkit-transform: scale(0); -ms-transform: scale(0); }

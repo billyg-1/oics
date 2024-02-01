@@ -452,8 +452,8 @@
     .dt-sc-boxed-style.dt-sc-post-entry .blog-entry .entry-button a.dt-sc-button.read-more { position: relative; padding: 0 25px 0 0; }
     .dt-sc-boxed-style.dt-sc-post-entry .blog-entry .entry-button a.dt-sc-button.read-more span { display: none; }
     .dt-sc-boxed-style.dt-sc-post-entry .blog-entry .entry-button a.dt-sc-button.read-more:after { background-color: currentColor; content: ""; 
-        mask-image: url(../images/sep-mask-img.png); mask-position: left center; mask-repeat: no-repeat; 
-        -webkit-mask-image: url(../images/sep-mask-img.png); -webkit-mask-position: left center; -webkit-mask-repeat: no-repeat; 
+        mask-image: url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/images/sep-mask-img.png); mask-position: left center; mask-repeat: no-repeat; 
+        -webkit-mask-image: url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/images/sep-mask-img.png); -webkit-mask-position: left center; -webkit-mask-repeat: no-repeat; 
         width: 100%; height: 100%;display: inline-block; position: absolute; left: 0; bottom: -15px; transition: all 300ms linear; -webkit-transition: all 300ms linear; -ms-transition: all 300ms linear; }
 
 
@@ -489,7 +489,7 @@
     .dt-sc-simple-style.dt-sc-post-entry.entry-list-layout .blog-entry > div:nth-child(2) { margin-top: 0; }
     .dt-sc-simple-style.dt-sc-post-entry.entry-list-layout .blog-entry > div:last-child { margin-bottom: 25px; }
 
-    .dt-sc-simple-style.dt-sc-post-entry.entry-list-layout:before { background-image: url(../images/simple-blog-pattern.png); background-repeat: repeat; bottom: 30px; content: ''; display: block; height: 9px; left: 10px; margin: auto; position: absolute; right: 10px; width: auto; }
+    .dt-sc-simple-style.dt-sc-post-entry.entry-list-layout:before { background-image: url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/images/simple-blog-pattern.png); background-repeat: repeat; bottom: 30px; content: ''; display: block; height: 9px; left: 10px; margin: auto; position: absolute; right: 10px; width: auto; }
 
     .dt-sc-simple-style.dt-sc-post-entry.entry-list-layout:last-child:before, .dt-sc-simple-style.dt-sc-post-entry.entry-list-layout.grid-sizer:before { display: none; }
     .dt-sc-simple-style.dt-sc-post-entry.entry-list-layout:last-child { margin-bottom: 0; }
@@ -1677,7 +1677,7 @@
 
     .dt-sc-post-entry.entry-cover-layout .blog-entry > div.entry-meta-group:not(:last-child), .dt-sc-post-entry.entry-cover-layout .blog-entry .entry-details > div.entry-meta-group:not(:last-child) { border-color: rgba(255,255,255,.15); }
 
-    .dt-sc-grungy-boxed-style.dt-sc-post-entry .blog-entry, .dt-sc-grungy-boxed-style.dt-sc-post-entry .blog-entry.has-post-thumbnail > div.entry-thumb + div.entry-comments > *, .dt-sc-grungy-boxed-style.dt-sc-post-entry .blog-entry.has-post-thumbnail > div.entry-thumb + div.entry-likes-views > *, .dt-sc-grungy-boxed-style.dt-sc-post-entry .blog-entry:not(.has-post-thumbnail) > div.entry-comments:first-child > *, .dt-sc-grungy-boxed-style.dt-sc-post-entry .blog-entry:not(.has-post-thumbnail) > div.entry-likes-views:first-child > * { background-image: url(../images/pattern-grudge.png); background-position: left top; background-repeat: repeat; }
+    .dt-sc-grungy-boxed-style.dt-sc-post-entry .blog-entry, .dt-sc-grungy-boxed-style.dt-sc-post-entry .blog-entry.has-post-thumbnail > div.entry-thumb + div.entry-comments > *, .dt-sc-grungy-boxed-style.dt-sc-post-entry .blog-entry.has-post-thumbnail > div.entry-thumb + div.entry-likes-views > *, .dt-sc-grungy-boxed-style.dt-sc-post-entry .blog-entry:not(.has-post-thumbnail) > div.entry-comments:first-child > *, .dt-sc-grungy-boxed-style.dt-sc-post-entry .blog-entry:not(.has-post-thumbnail) > div.entry-likes-views:first-child > * { background-image: url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/images/pattern-grudge.png); background-position: left top; background-repeat: repeat; }
 
     .dt-sc-title-overlap-style.dt-sc-post-entry .blog-entry > div.entry-title:before { background-color: #f2f5f6 }
     .dt-sc-title-overlap-style.dt-sc-post-entry .blog-entry > div.entry-title:after { border-color: #f0f0f0; }

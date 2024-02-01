@@ -1282,7 +1282,7 @@ color: rgba(0, 0, 0, 0.4);width: 100%; font-weight: bold; line-height: normal;pa
 	/*--------------------------------------------------------------
 	16.0 - Totop
 	--------------------------------------------------------------*/
-	#toTop { position:fixed; display:none; text-decoration:none; bottom:30px; right:25px; overflow:hidden; width:80px; height:80px; border:none; text-indent:100%; background:url(../images/totop.png) no-repeat left top; z-index:999; opacity:0.8; text-indent:-9999px; background-size:80px auto; }
+	#toTop { position:fixed; display:none; text-decoration:none; bottom:30px; right:25px; overflow:hidden; width:80px; height:80px; border:none; text-indent:100%; background:url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/images/totop.png) no-repeat left top; z-index:999; opacity:0.8; text-indent:-9999px; background-size:80px auto; }
 	#toTop:hover { opacity:0.6; }
 	#toTop:active, #toTop:focus { outline:none; }
 

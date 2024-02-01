@@ -13,9 +13,9 @@
 
 #tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a { background: #fff; border: 2px solid rgba(0, 0, 0, 0.15); color: #888; display: inline-block; line-height:28px; padding: 2px 12px; text-decoration: none; }
 
-.tribe-bar-views-list li:hover span.tribe-icon-month, .tribe-bar-views-list li.tribe-bar-active span.tribe-icon-month { background-image: url(images/icon-month-hover.png); }
-.tribe-bar-views-list li:hover span.tribe-icon-list, .tribe-bar-views-list li.tribe-bar-active span.tribe-icon-list { background-image: url(images/icon-list-hover.png); }
-.tribe-bar-views-list li:hover span.tribe-icon-day, .tribe-bar-views-list li.tribe-bar-active span.tribe-icon-day { background-image: url(images/icon-day-hover.png); }
+.tribe-bar-views-list li:hover span.tribe-icon-month, .tribe-bar-views-list li.tribe-bar-active span.tribe-icon-month { background-image: url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/tribe-events/images/icon-month-hover.png); }
+.tribe-bar-views-list li:hover span.tribe-icon-list, .tribe-bar-views-list li.tribe-bar-active span.tribe-icon-list { background-image: url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/tribe-events/images/icon-list-hover.png); }
+.tribe-bar-views-list li:hover span.tribe-icon-day, .tribe-bar-views-list li.tribe-bar-active span.tribe-icon-day { background-image: url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/tribe-events/images/icon-day-hover.png); }
 
 #tribe-bar-form .tribe-bar-filters { float: left; margin: 0; position: relative; }
 #tribe-bar-form .tribe-bar-filters-inner { background: #fff none repeat scroll 0 0; box-shadow: 0 1px 3px #ccc; }
@@ -42,7 +42,7 @@
 .tribe-events-tooltip p.entry-summary { line-height:18px; text-align:left; }
 .tribe-events-tooltip { padding:10px 10px 5px 10px; }
 .recurring-info-tooltip, .tribe-events-calendar .tribe-events-tooltip, .tribe-events-week .tribe-events-tooltip { background-color:#fff; border: 0 none; color: #6a695e; box-shadow: 3px 4px 21px rgba(0, 0, 0, 0.38); }
-.tribe-events-tooltip .tribe-events-arrow { background-image:url(images/tribe-tooltips.png); background-position:-3px -1px; }
+.tribe-events-tooltip .tribe-events-arrow { background-image:url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/tribe-events/images/tribe-tooltips.png); background-position:-3px -1px; }
 #tribe-events-content table.tribe-events-calendar { margin-bottom:20px; }
 h2.tribe-events-page-title { font-weight:500; }
 

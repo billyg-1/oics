@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Fun &#8211; Oics</title>
+	<atom:link href="https://billyg-1.github.io/schsite/tag/fun/feed/" rel="self" type="application/rss+xml" />
+	<link>https://billyg-1.github.io/schsite</link>
+	<description></description>
+	<lastBuildDate>Mon, 23 Dec 2019 12:14:47 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://billyg-1.github.io/schsite/wp-content/uploads/2019/11/favicon.png</url>
+	<title>Fun &#8211; Oics</title>
+	<link>https://billyg-1.github.io/schsite</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fun Building Blocks</title>
+		<link>https://billyg-1.github.io/schsite/event/fun-building-blocks/</link>
+		
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<pubDate>Fri, 28 Feb 2020 12:00:00 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Fun]]></category>
+		<guid isPermaLink="false">http://localhost/2019/pallikoodam/event/board-meeting/</guid>
+
+					<description><![CDATA[Vestibulum nec ipsum sed erat ullamcorper feugiat. Suspendisse potenti]]></description>
+										<content:encoded><![CDATA[<p>Vestibulum nec ipsum sed erat ullamcorper feugiat. Suspendisse potenti. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse pellentesque, nunc et cursus blandit, dolor leo posuere urna, in elementum leo sem sed leo. Sed lacinia ipsum ligula, at hendrerit risus pretium nec. Praesent vitae velit id augue ornare mollis nec vel quam. Nulla non ligula tristique, consequat nibh non, pellentesque nibh. Integer efficitur risus ac urna mattis maximus. Fusce egestas nisi sit amet ante dapibus maximus.</p>
+<p>Donec ultricies tellus orci, quis tristique nisi lobortis sed. Donec id ex a mauris fringilla ullamcorper. Nulla magna massa, elementum sed nibh sed, laoreet aliquam felis. Sed ante augue, luctus et tortor vel, dignissim blandit nibh. Aliquam ut pretium sapien. Donec interdum est in arcu varius, in tincidunt felis semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras at nulla eget ante fermentum eleifend. Nunc sed ultricies urna. Etiam sed augue ac tortor condimentum vestibulum vitae eu felis.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Healthy Kids Day</title>
+		<link>https://billyg-1.github.io/schsite/event/healthy-kids-day/</link>
+		
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<pubDate>Sat, 18 Jan 2020 18:00:00 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Fun]]></category>
+		<guid isPermaLink="false">http://localhost/2019/pallikoodam/event/dinner-party/</guid>
+
+					<description><![CDATA[Vestibulum nec ipsum sed erat ullamcorper feugiat. Suspendisse potenti. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse pellentesque, nunc et cursus blandit, dolor leo posuere [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Vestibulum nec ipsum sed erat ullamcorper feugiat. Suspendisse potenti. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse pellentesque, nunc et cursus blandit, dolor leo posuere urna, in elementum leo sem sed leo. Sed lacinia ipsum ligula, at hendrerit risus pretium nec. Praesent vitae velit id augue ornare mollis nec vel quam. Nulla non ligula tristique, consequat nibh non, pellentesque nibh. Integer efficitur risus ac urna mattis maximus. Fusce egestas nisi sit amet ante dapibus maximus.</p>
+<p>Donec ultricies tellus orci, quis tristique nisi lobortis sed. Donec id ex a mauris fringilla ullamcorper. Nulla magna massa, elementum sed nibh sed, laoreet aliquam felis. Sed ante augue, luctus et tortor vel, dignissim blandit nibh. Aliquam ut pretium sapien. Donec interdum est in arcu varius, in tincidunt felis semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras at nulla eget ante fermentum eleifend. Nunc sed ultricies urna. Etiam sed augue ac tortor condimentum vestibulum vitae eu felis.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Paper Craft Valentine</title>
+		<link>https://billyg-1.github.io/schsite/event/paper-craft-valentine/</link>
+		
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<pubDate>Sun, 29 Dec 2019 10:00:00 +0000</pubDate>
+				<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Holiday]]></category>
+		<guid isPermaLink="false">http://localhost/2019/pallikoodam/event/movie-marathon/</guid>
+
+					<description><![CDATA[Vestibulum nec ipsum sed erat ullamcorper feugiat. Suspendisse potenti. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse pellentesque, nunc et cursus blandit, dolor leo posuere [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Vestibulum nec ipsum sed erat ullamcorper feugiat. Suspendisse potenti. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse pellentesque, nunc et cursus blandit, dolor leo posuere urna, in elementum leo sem sed leo. Sed lacinia ipsum ligula, at hendrerit risus pretium nec. Praesent vitae velit id augue ornare mollis nec vel quam. Nulla non ligula tristique, consequat nibh non, pellentesque nibh. Integer efficitur risus ac urna mattis maximus. Fusce egestas nisi sit amet ante dapibus maximus.</p>
+<p>Donec ultricies tellus orci, quis tristique nisi lobortis sed. Donec id ex a mauris fringilla ullamcorper. Nulla magna massa, elementum sed nibh sed, laoreet aliquam felis. Sed ante augue, luctus et tortor vel, dignissim blandit nibh. Aliquam ut pretium sapien. Donec interdum est in arcu varius, in tincidunt felis semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras at nulla eget ante fermentum eleifend. Nunc sed ultricies urna. Etiam sed augue ac tortor condimentum vestibulum vitae eu felis.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

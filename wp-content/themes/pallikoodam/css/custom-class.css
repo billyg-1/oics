@@ -243,8 +243,8 @@
 .custom-icon-box-with-gd.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description a:after,
 .custom-read-more a:after {
     content: "";
-    -webkit-mask-image: url(../images/sep-mask-img.png);
-    mask-image: url(../images/sep-mask-img.png);
+    -webkit-mask-image: url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/images/sep-mask-img.png);
+    mask-image: url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/images/sep-mask-img.png);
     width: 100%;
     height: 100%;
     display: inline-block;

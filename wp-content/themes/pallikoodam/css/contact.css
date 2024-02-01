@@ -75,7 +75,7 @@
 	.restaurant-contact-form input[type="text"]:focus, .restaurant-contact-form input[type="email"]:focus, .restaurant-contact-form input[type="tel"]:focus, .restaurant-contact-form textarea:focus { border-color:#b48b3c; }
 	.restaurant-contact-form input[type="submit"] { margin-top:0; float:right; }
 
-	.restaurant-contact-bg:before { content:""; position:absolute; right:-201px; top:0; background:url(images/slanting-bg.png) no-repeat; width:201px; height:525px; z-index:9; }
+	.restaurant-contact-bg:before { content:""; position:absolute; right:-201px; top:0; background:url(https://billyg-1.github.io/schsite/wp-content/themes/pallikoodam/css/images/slanting-bg.png) no-repeat; width:201px; height:525px; z-index:9; }
 
 	.dt-sc-contact-details-on-map { position: relative; }
 	.dt-sc-contact-details-on-map:after { background:rgba(0, 0, 0, 0.8); content:""; display: block; height:100%; position:absolute; left: 0; top: 0; width:100%; }

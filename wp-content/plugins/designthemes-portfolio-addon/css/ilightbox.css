@@ -1,5 +1,5 @@
 /* Import Skins */
-@import url('ilightbox/dark-skin/skin.css');
+@import url('https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/css/ilightbox/dark-skin/skin.css');
 
 
 /* Reset Styles */
@@ -31,7 +31,7 @@
 	overflow: hidden;
 }
 .ilightbox-closedhand * {
-	cursor: url(closedhand.cur),default !important;
+	cursor: url(https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/css/closedhand.cur),default !important;
 }
 
 .ilightbox-overlay {
@@ -253,27 +253,27 @@
 }
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.facebook a {
-	background-image: url('../social_icons/facebook_16.png');
+	background-image: url('https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/social_icons/facebook_16.png');
 }
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.digg a {
-	background-image: url('../social_icons/digg_16.png');
+	background-image: url('https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/social_icons/digg_16.png');
 }
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.twitter a {
-	background-image: url('../social_icons/twitter_16.png');
+	background-image: url('https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/social_icons/twitter_16.png');
 }
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.delicious a {
-	background-image: url('../social_icons/delicious_16.png');
+	background-image: url('https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/social_icons/delicious_16.png');
 }
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.reddit a {
-	background-image: url('../social_icons/reddit_16.png');
+	background-image: url('https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/social_icons/reddit_16.png');
 }
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.googleplus a {
-	background-image: url('../social_icons/google_plus_16.png');
+	background-image: url('https://billyg-1.github.io/schsite/wp-content/plugins/designthemes-portfolio-addon/social_icons/google_plus_16.png');
 }
 
 .ilightbox-holder .ilightbox-alert {
